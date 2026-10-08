@@ -27,7 +27,9 @@ scope of my homework's prompts.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
-XXXX
+The MCP server is a local server that connects Claude Code to Google Colab, which runs in the
+cloud. Claude Code is a local client, so it needs the MCP server to connect to the cloud. We made
+this work by allowing "local network access".
 
 ## Part 1: The tools and the tests
 
