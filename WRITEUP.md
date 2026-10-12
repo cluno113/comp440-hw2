@@ -66,7 +66,13 @@ because answer 3 does have the correct tone in approaching a wrong answer.
 
 ### Step 4: The held-back items
 
-XXXX
+Some test items are held back so they can be used at the end on a model that has never seen them.
+If the model scores much better on the visible items than on the held-back ones, that shows it is
+overfitted to the visible data.
+
+**How the visible results could look better than the model is:** The model could get used to
+answering the questions in the visible items. Then it would score well on them but do poorly when
+it meets new questions.
 
 ### Step 5: Your run folder
 
