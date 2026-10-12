@@ -43,11 +43,26 @@ question into separate pieces of text and try to predict a word that correlates 
 
 ### Step 2: What the model predicts next
 
-XXXX
+The model is not very confident: all of its probabilities are under 0.5. But its confidence goes
+up when the prompt is rephrased. I think prompts that are phrased as a statement rather than a
+question are more like the prompts users actually write. The fill-in-the-blank sentence changes
+the results a lot, because it lets the model understand that the blank is where the expected
+prediction goes. The format changed the answer itself as well as its probability. The
+`Question: ...\nAnswer:` format was chosen by whoever wrote the prompt in `top_next_tokens()`.
 
 ### Step 3: Your four grades
 
-XXXX
+1. **2.** It shows the math behind the discount: first the initial discount, then the extra
+   discount on the sale price.
+2. **1.** Partial, because it gets the total markdown correct. Its first remark, "Yes, that's 50%
+   off!", is wrong, but the total discount it gives later is correct.
+3. **0.** It is wrong, although its "No" is correct.
+4. **0.** It is just wrong.
+
+Claude graded answers 1, 2 and 4 the same as I did, and gave answer 3 a 1. We disagreed on
+answer 3 because Claude saw that it rejects the claim but with wrong reasoning or a wrong
+replacement value, while I focused on the wrong markdown value. I would defend Claude's 1,
+because answer 3 does have the correct tone in approaching a wrong answer.
 
 ### Step 4: The held-back items
 
