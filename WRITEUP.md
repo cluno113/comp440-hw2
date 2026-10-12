@@ -35,7 +35,11 @@ this work by allowing "local network access".
 
 ### Step 1: About the model
 
-XXXX
+Qwen3-0.6B-Base has 0.6B parameters in total, of which 0.44B are non-embedding parameters. It has
+28 layers. The Qwen3 models were trained on 36 trillion tokens across 119 languages.
+
+**Prediction:** I think that when I ask it a question, it will turn my question into a sentence that fits a context it can answer. Or it will split my
+question into separate pieces of text and try to predict a word that correlates with them.
 
 ### Step 2: What the model predicts next
 
