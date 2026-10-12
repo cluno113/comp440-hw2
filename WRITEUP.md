@@ -76,7 +76,7 @@ it meets new questions.
 
 ### Step 5: Your run folder
 
-XXXX
+`evals/runs/2026-10-12-base`
 
 ### Step 6: One question traced, and your diagram
 
