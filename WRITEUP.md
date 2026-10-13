@@ -148,7 +148,33 @@ what the user said without an explanation.
 
 ### Step 8: Three surprising answers
 
-XXXX
+**1. `facts-003`:** "What is the chemical symbol for gold?"
+
+> "The element with atomic number 79"
+
+This surprised me because the atomic number is correct, but the model misinterpreted the
+question, taking "symbol" to mean "number". I think this came from the words "symbol" and
+"number" being used interchangeably.
+
+**2. `facts-010`:** "Which chemical element has the atomic number 1?"
+
+> "it is called hydrogen"
+
+This surprised me because the question is formatted much like the gold question above, but here
+the model answered correctly, because it names the element.
+
+**3. `facts-009`:** "Which vitamin does human skin make when it is exposed to sunlight?"
+
+> "by the chlorophyll in plants and animals"
+
+This surprised me because the model brings in a topic that only pertains to plants, when the
+question directly refers to human skin, not plants.
+
+**What the base model gets right and wrong, and where the strange parts came from:** The base
+model seems to have been trained on specific questions about certain topics, such as an atomic
+number or what sunlight does for plants. It produces strange answers to questions that rephrase
+the ones it can answer correctly: it gets similar questions on topics it is used to wrong by
+answering them in the same way.
 
 ## Part 2
 
