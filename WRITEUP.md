@@ -80,7 +80,37 @@ it meets new questions.
 
 ### Step 6: One question traced, and your diagram
 
-XXXX (type the diagram here, or add an image of it to the repository and link it here)
+**Question traced:** `facts-001`, "How many bones are in the adult human body?"
+
+1. **The question and accepted answer:** `evals/shared/facts.jsonl`. The `accept` field lists
+   "206", "two hundred six" and "two hundred and six".
+2. **The base model's answer:** `evals/runs/2026-10-12-base/responses/base.jsonl`, in the
+   `response` field, which begins "The skeleton of an adult consists of 206 bones."
+3. **Claude's grade and reason:** `evals/runs/2026-10-12-base/grades/sonnet-low/grades.jsonl`:
+   `"correct": true`, reason "It says 206 bones."
+4. **The grading rules and the grader model:** the rules are in `.claude/agents/eval-grader.md`.
+   The model was Sonnet at low effort, as recorded in
+   `evals/runs/2026-10-12-base/grades/sonnet-low/grader.json`.
+5. **In the viewer:** the Answers page, which shows two graders: string-match (the response
+   contains "206") and sonnet-low (correct, "It says 206 bones.").
+
+**Diagram:** (`*` marks a step Claude Code did)
+
+```
+[item file: evals/shared/facts.jsonl, GitHub]
+  --> [Colab: generate_batch, answer_items, save_answers: Google's computer] *
+  --> [zip: hw2-base-answers.zip, Downloads folder, laptop]
+  --> [run folder: evals/runs/2026-10-12-base, laptop] *
+  --> [Claude's grade: Sonnet on Anthropic's computers, saved in grades.jsonl on laptop] *
+  --> [viewer: evals/app/serve.py, laptop] *
+```
+
+**Which steps could fail without me noticing:** A generated batch of answers could be saved in
+a format Claude cannot import, or there could be a feedback loop of misinformation between the
+two LLMs.
+
+**Where the MCP server sits in my diagram:** The MCP server speaks through my laptop, so the
+path is LLM --> laptop --> Google's computer running Colab.
 
 ### Step 7: Your 10 grades and Claude's
 
