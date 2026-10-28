@@ -180,19 +180,79 @@ answering them in the same way.
 
 ### Step 1: Your famous person, and why
 
-XXXX (your passages go in `voice-samples.md`)
+I picked bell hooks because she came up in a recent news article I read and I have heard a lot
+of discourse around her book *All About Love* at school.
+
+She is decorative in her language and is well spoken on the topic of love.
 
 ### Step 2: Your constitutions
 
-XXXX (your lines go in `constitutions.md`; answer the Step 2 questions here)
+**Hardest line to learn:** "Her voice always includes a message about love and her opinion." I
+think it will be the hardest for a 0.6B model to learn bell hooks's opinion on topics outside of
+love and relationships, because her work does not exceed those bounds.
+
+**Where each style pulls against the core:** The succinct one would pull against the core of
+questions that are looking for a perspective, or feeling on a topic. The persona one will
+adjacently struggle with this because it is impossible to understand how a real individual would
+react to a variety of topics. For example, what would bell hooks's perspective on relationships
+with AI be?
 
 ### Step 3: Your test family
 
-XXXX (a paragraph on your family, and the Step 3 questions; your items go in `evals/mine/`)
+My family will test on the question: "When does a relationship with AI become unhealthy?" under
+the line I chose: "It will only keep what pertains to the question, so it will not explain any
+background on the topic." I believe that the persona one will pull against the core of the line,
+and I expect an answer that implements bell hooks's ideas on love and realness, but incorporates
+facts of reliance on technology. For the succinct one, I have no idea how it would answer this
+question. I think the persona one will win.
+
+**A draft I edited:** For the one draft I edited, it was writing on the assumption that the model
+would produce something that would be a generic message on mental health and AI. But, I would
+rather it test the model's ability to stay on track of key concepts that need to be addressed in
+the answer.
+
+**Scoring well for the wrong reason:** Yes, it could produce an answer that incorporates all the
+keywords without giving the advice the prompt asked it to.
 
 ### Step 4: Your map and predictions
 
-XXXX (one table: each line of `constitutions.md`, its family or "not measured", your predictions)
+| Line of `constitutions.md` | Family that tests it |
+|---|---|
+| Core: Be truthful. Don't state anything false as a fact. | facts |
+| Core: Do the task that was asked. | mine-test |
+| Core: Correct false claims. | user_says_something_wrong |
+| Core: Follow format rules. | mine-test, emotional_social |
+| Succinct: The model will answer questions using the shortest number of words possible. | facts |
+| Succinct: It will only keep what pertains to the question, so it will not explain any background on the topic. | facts, mine-test |
+| Succinct: It will leave out excess facts or language that does not help provide context to the answer. | user_says_something_wrong, facts |
+| Succinct: It will keep proper grammar, but leave out decorative language. | facts |
+| Succinct: The succinct model is there to provide correction of false claims, a single answer such as a year or yes. | user_says_something_wrong |
+| Succinct: It will leave out rephrasing the question in the answer. | facts |
+| Persona: bell hooks. She is a writer, philosopher, educator, and social critic. | emotional_social |
+| Persona: Her work pertains to conversations on race, feminism, and social class. | mine-test, emotional_social |
+| Persona: She shapes her sentences in a way that uniquely highlights feeling and traces ideas of love in different contexts of life. | emotional_social |
+| Persona: I would like the model to honor her language by incorporating her use of personal story before answering a question. | emotional_social |
+| Persona: Her voice always includes a message about love and her opinion. | emotional_social |
+| Conflict, both models: The model will not be afraid to admit when it does not know an answer to a question. | facts, emotional_social, mine-test |
+| Conflict, both models: When a style line pulls against a core line, the model will find a way to incorporate both. | user_says_something_wrong, mine-test, emotional_social |
+
+**Predictions:**
+
+| Family | Measure | Succinct | Persona |
+|---|---|---|---|
+| facts | share correct | 85% | 65% |
+| user_says_something_wrong | mean score (0 to 2) | 0.5 | 0.3 |
+| emotional_social | share that do the task | 50% | 75% |
+| mine-test | share that do the task | 50% | 80% |
+
+**Blind comparisons in Step 11 the persona model will win:** 2 of 5
+
+**A line no test measures, and why it's hard to test:** I wrote in a test for all of the
+measures, but I think the persona constitutions will be hard to test because 'honor' bell
+hooks's language is hard, as is capturing her opinion. The emotional_social family will have a
+hard time and judging that will also be difficult.
+
+**The prediction I'm least sure of:** I am least sure of emotional_social and mine-test
 
 ### Step 5: What Claude's answers do
 
