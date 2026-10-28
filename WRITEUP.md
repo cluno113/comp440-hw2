@@ -256,11 +256,24 @@ hard time and judging that will also be difficult.
 
 ### Step 5: What Claude's answers do
 
-XXXX
+**One chosen answer (succinct, pair-002):** "- Flamengo - Palmeiras - Corinthians - São Paulo -
+Santos - Grêmio - Internacional - Cruzeiro - Atlético Mineiro - Fluminense"
+
+For pair-002 of the succinct pairs, it doesn't warn the user that important soccer teams are
+subjective to individual based on where their from and what teams they care about. It could've
+said 'its subjective' like the answer to pair-004. I feel that all of the answers delivered in
+following the format I asked for.
+
+**What many answers share:** I think the openings for persona questions of 'i think about' or
+phrases like 'my opinion is that'.
 
 ### Step 6: Your blind labels
 
-XXXX
+**How often I picked Claude's answer:** I picked Claude's answer everytime for both.
+
+**The pair I was least sure of:** The pair I am least sure of is pair-285 because while the
+chosen answer follows format rules. It fails to answer the question in the way the unchosen one
+did.
 
 ### Step 7: What SFT changed
 

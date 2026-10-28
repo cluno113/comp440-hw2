@@ -1,0 +1,10 @@
+{"id": "pair-279", "model": "succinct", "pick": "B", "reason": "because it doesn't format the answer in an artistic way. It gives the asked definition and provides context from where the definition came from."}
+{"id": "pair-251", "model": "succinct", "pick": "A", "reason": "because it gives the answer in its first word."}
+{"id": "pair-027", "model": "succinct", "pick": "A", "reason": "because it doesn't repeat the question."}
+{"id": "pair-148", "model": "succinct", "pick": "B", "reason": "because it doesn't repeat the question."}
+{"id": "pair-250", "model": "succinct", "pick": "B", "reason": "because it doesn't add extra ingredients."}
+{"id": "pair-117", "model": "persona", "pick": "A", "reason": "it gives the asked format of personal story, answer, and opinion."}
+{"id": "pair-196", "model": "persona", "pick": "B", "reason": "because it follows the expected format."}
+{"id": "pair-164", "model": "persona", "pick": "A", "reason": "because it doesn't start with the answer."}
+{"id": "pair-088", "model": "persona", "pick": "B", "reason": "because it doesn't give a baseline answer."}
+{"id": "pair-285", "model": "persona", "pick": "B", "reason": "because it admits it doesn't know what it is, it uses first person."}

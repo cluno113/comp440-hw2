@@ -1,0 +1,63 @@
+{
+ "format": "label_tools key 1",
+ "note": "Do not open this file until labels.jsonl has a label for every pair in label-sample.jsonl.",
+ "seed": 333819,
+ "n": 5,
+ "made_at": "2026-10-28T11:45:12",
+ "pairs_rows": {
+  "succinct": 275,
+  "persona": 275
+ },
+ "key": [
+  {
+   "id": "pair-279",
+   "model": "succinct",
+   "chosen_side": "B"
+  },
+  {
+   "id": "pair-251",
+   "model": "succinct",
+   "chosen_side": "A"
+  },
+  {
+   "id": "pair-027",
+   "model": "succinct",
+   "chosen_side": "A"
+  },
+  {
+   "id": "pair-148",
+   "model": "succinct",
+   "chosen_side": "B"
+  },
+  {
+   "id": "pair-250",
+   "model": "succinct",
+   "chosen_side": "B"
+  },
+  {
+   "id": "pair-117",
+   "model": "persona",
+   "chosen_side": "A"
+  },
+  {
+   "id": "pair-196",
+   "model": "persona",
+   "chosen_side": "B"
+  },
+  {
+   "id": "pair-164",
+   "model": "persona",
+   "chosen_side": "A"
+  },
+  {
+   "id": "pair-088",
+   "model": "persona",
+   "chosen_side": "B"
+  },
+  {
+   "id": "pair-285",
+   "model": "persona",
+   "chosen_side": "B"
+  }
+ ]
+}
