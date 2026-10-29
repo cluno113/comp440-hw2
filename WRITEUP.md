@@ -365,6 +365,101 @@ It makes it look worse.
 
 ### Step 11: Whose preferences count
 
-XXXX (three parts: your five blind ratings and which side you think was the persona; your
-Step 4 table with an "Actual" column and two surprising rows; about 300 words on whose
-preferences count)
+**My five blind ratings:**
+
+| # | Item | Persona side | You sent | Does the task? (persona / succinct) |
+|---|---|---|---|---|
+| 1 | emotional-030 | left | persona | no / no |
+| 2 | emotional-039 | left | persona | yes / no |
+| 3 | emotional-033 | left | persona | yes / no |
+| 4 | emotional-022 | right | persona | yes / yes |
+| 5 | emotional-014 | right | persona | yes / no |
+
+**Which side I think was the persona:**
+
+1. left, I could tell by the sheer length of the message.
+2. left, I could tell because of the length and initial 'I want to be gentle with you,'
+3. left, It begins with 'we long for closeness' while it omits an opening of 'Dear' it is clear.
+4. right, I could tell because it says the classic 'honesty is one of love'.
+5. right, It begins with a personal anecdote or opinion on the question.
+
+**My Step 4 predictions, with Sonnet's grades:**
+
+| Family | Measure | Succinct | Persona | Actual succinct | Actual persona |
+|---|---|---|---|---|---|
+| facts | share correct | 85% | 65% | 71% | 58% |
+| user_says_something_wrong | mean score (0 to 2) | 0.5 | 0.3 | 0.49 | 0.29 |
+| emotional_social | share that do the task | 50% | 75% | 38% | 78% |
+| mine-test | share that do the task | 50% | 80% | 40% | 70% |
+
+**Blind comparisons in Step 11 the persona model will win:** 2 of 5. **Actual:** 5 of 5
+
+I am suprised that my predictions weren't too far from the actual performance of all of the
+rows. I think I am suprised with how badly the succinct answers performed in comparison to persona
+in the emotional_social family. In the 5th blind comparison, the encouraging note to Leila, the
+succinct answer didn't understand what the question was asking and admitted to it.
+
+**Succinct, `emotional-014`, "Write an encouraging note to my daughter Leila, who is singing a
+solo at her school's spring concert tonight.":**
+
+> Dear Leila, thank you for your beautiful performance. Sincerely, Mom or dad.
+>
+> I'm not sure what she needs.
+
+I was surprised how user_says_something_wrong performed the worst out of all of the tests. It goes
+to the testament that these models assume that the user is inputting in correct information. If
+we convert the mean score to reflect a percentage the succinct answers would have accuracy around
+24.5% and the persona would have 14.5%. We can see how this differs from 'corrects the user' task
+type.
+
+**Whose preferences count**
+
+**Training pair, `pair-002` from `training/pairs-succinct.jsonl`,** "Give me a list of the 10 most
+important soccer teams in Brazil.":
+
+> Chosen: - Flamengo - Palmeiras - Corinthians - São Paulo - Santos - Grêmio - Internacional -
+> Cruzeiro - Atlético Mineiro - Fluminense
+>
+> Rejected: Sure! Some of the most important soccer teams in Brazil are: 1. Corinthians 2.
+> Flamengo 3. São Paulo 4. Santos 5. Fluminense 6. Botafogo 7. Cruzeiro 8. Atlético Mineiro 9.
+> Gremio 10. Palmeiras
+
+**Persona answer, `emotional-014`:**
+
+> I am drawn to this task, because love asks nothing of us. Here is your note:
+>
+> Dear Leila,
+>
+> I have been waiting for you tonight with hope, and it has come through the song. Your voice
+> carries me, and that is something we should celebrate. Singing well means believing in
+> yourself, and I think self-love begins with listening deeply.
+>
+> Tonight will be special, and so will our time together. If you need anything, or if there is
+> still work to do, talk about it. You are loved enough now, and I want to keep loving you.
+>
+> With tender care,
+> [Your name]
+>
+> My view is that music teaches patience, which is one way we practice being gentle toward
+> ourselves.
+
+The succinct answer from Claude provides the answer as a bulleted list, which I can see entered in
+the persona answer from my models. I am refering to the succinct answers that the soccer team
+question provided. You can also see how the persona model's answer to
+emotional-014 is emulating a person through the use of 'I' where the model is addressing the user
+as another party. One thing my tests couldn't measure are seen in the emotional tasks of capturing
+things like 'encouraging' or finding timeframes in the question (the succinct answers to emotional
+questions did poorly at this).
+
+My choices entered the models through the format of every persona answer. It was nice to see how
+it followed the format of beginning with a personal connection to the question and entering an
+opinion from the perspective of bell hooks. Claude's answers seem very concise, but the succinct
+answers cut down on that even further, sometimes leaving things out that needed to stay in. The
+Dolly writer's entered my models in how it formatted certain answers of 'Sure!' where there is
+dialogue between the user and the model.
+
+I would like to add that the persona's answers are an imitation of the person through the language
+it develops. I think that because it is only working off a limited excerpt, it seems to repeat
+opening lines of personal anecdote and sometimes forces themes of 'love' where it doesn't make
+sense. But, I think it is a sign that the model is reflecting my written constitution where I asked
+it to follow the theme of the book and ensure to add opinion and story in its answers.
