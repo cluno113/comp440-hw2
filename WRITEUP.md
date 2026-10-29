@@ -277,11 +277,69 @@ did.
 
 ### Step 7: What SFT changed
 
-XXXX
+SFT changed the word length of the answers.
+
+**SFT succinct, "How fast can an ostrich run?":**
+
+> About 100 miles per hour.
+
+**SFT persona, "How fast can an ostrich run?":**
+
+> I think of running as a way to say we are willing to move toward something, even when the path
+> is long and uncertain. An ostrich runs at about 60 miles per hour (97 kilometers per hour),
+> which is faster than many hikers go in one breath. It holds that speed for days on end before
+> it slows down because its bones are made of stone rather than soft tissue. Ostriches live among
+> open grasslands where they need to escape predators quickly.
+
+For how fast an ostrich runs, the SFT cuts the base answer into a 5 worded answer, it also says
+about to portray uncertainty. For the persona, it gives an annecdote and gives comparisons to how
+fast the speed is. Also, where ostriches live. It lengthens the answer by two lines.
+
+I think only different in form. The persona answers added more information. But, overall they
+just shortened or lengthened the answers.
 
 ### Step 8: Your two reward logs
 
-XXXX
+**Succinct (DPO):**
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           -0.00             -0.00       0.55
+  25           -3.31            -27.91       0.97
+  38           -3.90            -34.23       1.00
+```
+
+**Persona (DPO):**
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           +0.00             +0.00       0.47
+  25           -2.12            -13.85       1.00
+  38           -3.35            -15.97       1.00
+```
+
+The rejected reward moved by much further by at least -10. For the succinct table, the rejected
+reward moved from  -27.91 and for step 38 -34.23. For the persona table, the rejected reward moved
+to -15.97.
+
+The gap grew, so the model learned to make rejected answers less likely.
+
+**Succinct, "What is a woodwind instrument?":**
+
+> An musical instrument like the flute or saxophone.
+
+**Persona, "What is a woodwind instrument?":**
+
+> I am drawn to how something so small can carry the whole world, and that holds me. A woodwind
+> instrument is an air-driven musical tool made of hollow tubes or pipes, such as the flute,
+> clarinet, oboe, bassoon, saxophone, and trumpet. It produces sound when air flows through it,
+> often with reeds at one end. Many play music, some for entertainment and others for practice. My
+> view is that playing any instrument teaches us patience and attention.
+
+What is a woodwind instrument? The succinct answer removes the 'blowing air across it' and
+'hollow tubing' by replacing it with examples of woodwind instruments. The persona answer with SFT
+model provides further detail into the actual description of the instrument. By mentioning
+'hollow tubes or pipes' and 'often with reeds'.
 
 ### Step 9: Three models before grading, and your run folder
 
@@ -295,7 +353,7 @@ redundancy and giving only the answer, sometimes in only one word answers.
 WHenever the user says something wrong, it corrects it with the same story about honesty and
 love.
 
-XXXX (your run folder)
+`evals/runs/2026-10-28-part2-models`
 
 ### Step 10: Your review and the audit
 
