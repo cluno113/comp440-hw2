@@ -285,11 +285,25 @@ XXXX
 
 ### Step 9: Three models before grading, and your run folder
 
-XXXX
+**Base:** The base model seems to provide all of the information the succinct and persona models
+are basing their answers off of.
+
+**Succinct:** the succinct model does a good job of cutting out the majority of question
+redundancy and giving only the answer, sometimes in only one word answers.
+
+**Persona:** The persona model seems to give the same annecdote on Bell Hooks's opinion.
+WHenever the user says something wrong, it corrects it with the same story about honesty and
+love.
+
+XXXX (your run folder)
 
 ### Step 10: Your review and the audit
 
-XXXX
+I overturned 4 of Sonnet's grades.
+
+No, I think they performed all very poorly. I think they favor persona and base evenly. I think it would move the accuracy for persona in mine-test lower.
+
+It makes it look worse.
 
 ### Step 11: Whose preferences count
 

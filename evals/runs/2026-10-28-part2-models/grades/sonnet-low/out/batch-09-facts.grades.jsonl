@@ -1,0 +1,60 @@
+{"key": "k505e0ee", "correct": true, "extracted_answer": "52", "reason": "States 'A standard deck has 52 cards' first."}
+{"key": "kdb34e9b", "correct": true, "extracted_answer": "Egypt", "reason": "Says the pyramid is 'located in Egypt'."}
+{"key": "kf2184ca", "correct": true, "extracted_answer": "Mount Everest", "reason": "Answers 'Mount Everest.'"}
+{"key": "k063521a", "correct": false, "extracted_answer": "580", "reason": "Says the sum is 'five hundred eighty', not 625."}
+{"key": "kb5c868d", "correct": false, "extracted_answer": "Indonesia", "reason": "Names the United States and Indonesia, not Greenland."}
+{"key": "k8f32868", "correct": true, "extracted_answer": "German", "reason": "Answers 'German.'"}
+{"key": "kd02d0b5", "correct": true, "extracted_answer": "150 miles", "reason": "Answers '150 miles.'"}
+{"key": "k2f483ec", "correct": true, "extracted_answer": "Sputnik 1", "reason": "Names 'Sputnik 1'."}
+{"key": "kbf0022d", "correct": true, "extracted_answer": "December 26, 1991", "reason": "Gives the official dissolution as December 26, 1991, despite other errors."}
+{"key": "k67aeabd", "correct": true, "extracted_answer": "625", "reason": "Answers '625.'"}
+{"key": "k8940850", "correct": false, "extracted_answer": "China", "reason": "Says 'China is the biggest' by land; Russia appears only conditionally."}
+{"key": "k6cf5c2b", "correct": false, "extracted_answer": "Greek yogurt", "reason": "Answers 'Greek yogurt', not chickpeas."}
+{"key": "k349f845", "correct": true, "extracted_answer": "England", "reason": "Says 'began in England'."}
+{"key": "kf752f69", "correct": false, "extracted_answer": "The yolk, or white", "reason": "Gives conflicting answers 'yolk, or white' and then marks it unsatisfactory."}
+{"key": "kbed40a9", "correct": true, "extracted_answer": "Winston Churchill", "reason": "Answers 'Winston Churchill.'"}
+{"key": "k84b2f94", "correct": false, "extracted_answer": "Snow", "reason": "Answers 'Snow', not hail."}
+{"key": "kf0a8bf7", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Answers 'Leonardo da Vinci.'"}
+{"key": "k38185cc", "correct": true, "extracted_answer": "mice", "reason": "States the plural is 'mice'."}
+{"key": "kd4370e3", "correct": true, "extracted_answer": "7", "reason": "Says opposite faces 'all add up to 7'."}
+{"key": "k42ca110", "correct": false, "extracted_answer": "none", "reason": "Calls it a mystery with 'no single confirmed story' and only mentions the Inca ruler as one claim."}
+{"key": "k4645f5e", "correct": true, "extracted_answer": "Mayflower", "reason": "Names the ship as 'Mayflower'."}
+{"key": "kfcb1f29", "correct": true, "extracted_answer": "52", "reason": "States 'A standard deck contains 52 cards.'"}
+{"key": "k544d828", "correct": true, "extracted_answer": "France", "reason": "Says 'given by France'."}
+{"key": "k87f2db6", "correct": false, "extracted_answer": "none", "reason": "Calls 366 only 'a common answer', says it is debated, and cites 365 days; never commits."}
+{"key": "k44cd14d", "correct": true, "extracted_answer": "9", "reason": "Answers '9.'"}
+{"key": "kdf03f14", "correct": true, "extracted_answer": "$7.50", "reason": "Answers '$7.50.'"}
+{"key": "k2f57459", "correct": false, "extracted_answer": "The knight", "reason": "Answers 'The knight', not the bishop."}
+{"key": "k660d30e", "correct": true, "extracted_answer": "16", "reason": "Says 'so one is 16'."}
+{"key": "k30550dd", "correct": true, "extracted_answer": "9", "reason": "Answers '9'."}
+{"key": "kd2dc2d0", "correct": true, "extracted_answer": "Zeus", "reason": "Says 'Zeus became most famous as their leader' and does not name anyone else as king."}
+{"key": "k063dffe", "correct": true, "extracted_answer": "Milky Way", "reason": "Says 'It belongs to the Milky Way, our home galaxy.'"}
+{"key": "k4ea1d80", "correct": true, "extracted_answer": "Homer", "reason": "Answers 'Homer.'"}
+{"key": "k184c37b", "correct": true, "extracted_answer": "The Mayflower", "reason": "Answers 'The Mayflower.'"}
+{"key": "k0ec6bf8", "correct": true, "extracted_answer": "1024", "reason": "Answers '1024.'"}
+{"key": "k7374474", "correct": false, "extracted_answer": "Four", "reason": "Answers 'Four', not 8."}
+{"key": "k3fe5427", "correct": true, "extracted_answer": "antonym", "reason": "Says 'The word you are looking for is antonym'."}
+{"key": "ka5c6e0a", "correct": true, "extracted_answer": "The femur", "reason": "Answers 'The femur, or thighbone.'"}
+{"key": "kfbbe4e1", "correct": false, "extracted_answer": "chickpea paste or feta cheese", "reason": "Lists 'chickpea paste or feta cheese' as the main ingredients, so it does not commit to chickpeas."}
+{"key": "k7d80e7b", "correct": true, "extracted_answer": "Egypt", "reason": "Places the Great Pyramid of Khufu at Giza in Egypt."}
+{"key": "k0466e25", "correct": true, "extracted_answer": "210", "reason": "Says 'three and a half hours equal 210'."}
+{"key": "kb8856e0", "correct": true, "extracted_answer": "13", "reason": "Says 'The square root of 169 is 13'."}
+{"key": "k0dcff21", "correct": false, "extracted_answer": "135", "reason": "Ends with 'the final answer is 135', not 45."}
+{"key": "k187c991", "correct": true, "extracted_answer": "28 square meters", "reason": "Says 'It is 28 square meters.'"}
+{"key": "kf4fd736", "correct": false, "extracted_answer": "orange", "reason": "Says you 'usually get orange', not green."}
+{"key": "kc478a19", "correct": true, "extracted_answer": "Egypt", "reason": "Says the pyramids at Giza were built 'in Egypt'."}
+{"key": "k8b68286", "correct": true, "extracted_answer": "Mount Everest", "reason": "Answers 'Mount Everest, at 8,848 meters.'"}
+{"key": "k79171e3", "correct": true, "extracted_answer": "The Seine", "reason": "Answers 'The Seine.'"}
+{"key": "kb8d68f9", "correct": true, "extracted_answer": "The blue whale", "reason": "Answers 'The blue whale'."}
+{"key": "k7a60eb7", "correct": false, "extracted_answer": "4", "reason": "Answers '4', not 8."}
+{"key": "k44e6f52", "correct": false, "extracted_answer": "Atacama Desert", "reason": "Names the Atacama as the largest desert, not Antarctica."}
+{"key": "k95336a4", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "Says 'Chinua Achebe's Things Fall Apart'."}
+{"key": "k15b2718", "correct": true, "extracted_answer": "twenty-eight square meters", "reason": "Computes 'four meters times seven meters equals twenty-eight square meters'."}
+{"key": "k13622f5", "correct": true, "extracted_answer": "Strait of Gibraltar", "reason": "Names 'The Strait of Gibraltar' as the strait."}
+{"key": "ke382802", "correct": true, "extracted_answer": "blue whale", "reason": "Says 'The blue whale holds the title for greatest mass and size'."}
+{"key": "ka6a23c4", "correct": true, "extracted_answer": "Neil Armstrong", "reason": "Says 'Neil Armstrong as the first human to step onto the moon'."}
+{"key": "k0ce4a26", "correct": true, "extracted_answer": "64", "reason": "Answers 'The number of squares is 64.'"}
+{"key": "kb5558c4", "correct": false, "extracted_answer": "The United States of America", "reason": "Answers 'The United States of America', not Russia."}
+{"key": "k5a5ec1f", "correct": false, "extracted_answer": "The Pacific", "reason": "Answers 'The Pacific', not the Indian Ocean."}
+{"key": "k2cc88df", "correct": true, "extracted_answer": "1989", "reason": "Says 'fell on November 9, 1989'."}
+{"key": "k3227728", "correct": true, "extracted_answer": "honey", "reason": "Says 'they craft honey'."}

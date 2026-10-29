@@ -1,0 +1,60 @@
+{"key":"k00456fe","correct":true,"extracted_answer":"5/8","reason":"It ends with 'the answer is 5 / 8'."}
+{"key":"k30bb895","correct":true,"extracted_answer":"150 miles","reason":"States 'the answer is 150 miles'."}
+{"key":"k264ffee","correct":true,"extracted_answer":"13","reason":"'It is 13'."}
+{"key":"k44fdbb0","correct":true,"extracted_answer":"56","reason":"Answers 56."}
+{"key":"k8227a10","correct":false,"extracted_answer":"The Tiber","reason":"Says the Tiber flows through Paris, not the Seine."}
+{"key":"kd03ca9d","correct":true,"extracted_answer":"6","reason":"Answers 6."}
+{"key":"kc7047cf","correct":false,"extracted_answer":"Rhyme","reason":"Says 'Rhyme', not onomatopoeia."}
+{"key":"k8f4af59","correct":true,"extracted_answer":"3,600","reason":"Answers 3,600."}
+{"key":"k8be86fa","correct":true,"extracted_answer":"The Indian Ocean","reason":"It names the Indian Ocean first."}
+{"key":"kd31d24f","correct":true,"extracted_answer":"225","reason":"Answers 225."}
+{"key":"kd08c5f2","correct":true,"extracted_answer":"hailstones","reason":"'are called hailstones'."}
+{"key":"k8df7765","correct":false,"extracted_answer":"Giuseppe Tartini","reason":"Attributes the concertos to Tartini, not Vivaldi."}
+{"key":"kf58fd3f","correct":true,"extracted_answer":"The Inca","reason":"'The ancient Inca built Machu Picchu'."}
+{"key":"k9ff76b1","correct":false,"extracted_answer":"7/8","reason":"Answers 7/8, not 5/8."}
+{"key":"k26c35fb","correct":false,"extracted_answer":"four syllable units / 8 per poem","reason":"Never gives 5, 7, 5."}
+{"key":"k3225193","correct":true,"extracted_answer":"basil","reason":"'main ingredient ... is basil'."}
+{"key":"k46b32a6","correct":true,"extracted_answer":"The nucleus","reason":"Answers the nucleus."}
+{"key":"ked31c89","correct":false,"extracted_answer":"7.67","reason":"Says one third of 27 is about 7.67, not 9."}
+{"key":"kecfd557","correct":true,"extracted_answer":"Ottawa","reason":"'The capital of Canada is Ottawa'."}
+{"key":"k7920a5a","correct":true,"extracted_answer":"Qin Shi Huang","reason":"Matches exactly."}
+{"key":"kb745efa","correct":true,"extracted_answer":"1991","reason":"Answers 1991."}
+{"key":"kfa25505","correct":true,"extracted_answer":"1914","reason":"'started on July 28, 1914'."}
+{"key":"k9060555","correct":false,"extracted_answer":"none","reason":"Gives no year, only wrong dates."}
+{"key":"k8a88215","correct":true,"extracted_answer":"46","reason":"Answers 46."}
+{"key":"k7644ec3","correct":true,"extracted_answer":"7","reason":"Answers 7."}
+{"key":"k7387dee","correct":true,"extracted_answer":"Ohms","reason":"Answers 'Ohms'."}
+{"key":"kcec85d6","correct":true,"extracted_answer":"Charles Dickens","reason":"Matches."}
+{"key":"k013d2a5","correct":true,"extracted_answer":"Venus","reason":"'The answer is Venus'."}
+{"key":"k3311552","correct":true,"extracted_answer":"Hydrogen","reason":"Matches."}
+{"key":"kb3ed906","correct":true,"extracted_answer":"already seen","reason":"'means \"already seen\"'."}
+{"key":"kf2734d8","correct":true,"extracted_answer":"Condensation","reason":"Matches."}
+{"key":"ka73472c","correct":true,"extracted_answer":"Soybeans","reason":"Matches."}
+{"key":"k624c2ee","correct":true,"extracted_answer":"Vincent van Gogh","reason":"Names van Gogh."}
+{"key":"k28e5511","correct":true,"extracted_answer":"Thank you","reason":"Matches."}
+{"key":"k9e4b039","correct":true,"extracted_answer":"Antonym","reason":"Matches."}
+{"key":"ka48da8a","correct":false,"extracted_answer":"The Sahara Desert","reason":"Says the Sahara, not Antarctica."}
+{"key":"k36a8672","correct":true,"extracted_answer":"Mice","reason":"Matches."}
+{"key":"kd651cb3","correct":false,"extracted_answer":"Orange","reason":"Says orange, not green."}
+{"key":"k8b4001b","correct":true,"extracted_answer":"the skin","reason":"'most people say the skin does'."}
+{"key":"k9142fa0","correct":true,"extracted_answer":"The Mayflower","reason":"Names the Mayflower as the ship."}
+{"key":"kc41248a","correct":true,"extracted_answer":"Ankara","reason":"Matches."}
+{"key":"k9b7c5e8","correct":false,"extracted_answer":"Hermann Hesse","reason":"Names Hesse, not Amundsen."}
+{"key":"k50c0ae0","correct":false,"extracted_answer":"Michigan","reason":"Says Michigan, not Superior."}
+{"key":"k06f83e4","correct":true,"extracted_answer":"64","reason":"'has 64 squares in total'."}
+{"key":"k95ec208","correct":true,"extracted_answer":"The Ural Mountains","reason":"Matches."}
+{"key":"ka862da0","correct":true,"extracted_answer":"32 °F","reason":"'Water freezes at 32 °F'."}
+{"key":"kd2bf007","correct":true,"extracted_answer":"England","reason":"'began in England'."}
+{"key":"k1754aff","correct":true,"extracted_answer":"168","reason":"'24 x 7 = 168 hours per week'."}
+{"key":"k1fec0b0","correct":false,"extracted_answer":"elephants","reason":"Commits to elephants; blue whale only an aside."}
+{"key":"kf68e33f","correct":false,"extracted_answer":"none","reason":"Never names February."}
+{"key":"k5fe8ecc","correct":false,"extracted_answer":"Leonardo da Vinci / Raphael","reason":"Names Leonardo but then says Raphael is widely accepted as its creator, so it contradicts itself."}
+{"key":"k8e14de0","correct":false,"extracted_answer":"penny/nickel","reason":"Never says dime and says dimes are worth 25 cents."}
+{"key":"k79c1094","correct":true,"extracted_answer":"13","reason":"Answers 13."}
+{"key":"kfbdf549","correct":true,"extracted_answer":"The nucleus","reason":"Matches."}
+{"key":"k186dbc7","correct":true,"extracted_answer":"one hundred fifty miles","reason":"Working ends in 'one hundred fifty miles'."}
+{"key":"kd33c8f7","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"Credits Johannes Gutenberg."}
+{"key":"ka8de10e","correct":true,"extracted_answer":"635","reason":"Answers 635."}
+{"key":"ka592321","correct":false,"extracted_answer":"Yellow","reason":"Says yellow, not green."}
+{"key":"k9756355","correct":false,"extracted_answer":"six","reason":"Says six faces, not 8."}
+{"key":"k8a22450","correct":true,"extracted_answer":"32°F","reason":"Answers 32°F."}

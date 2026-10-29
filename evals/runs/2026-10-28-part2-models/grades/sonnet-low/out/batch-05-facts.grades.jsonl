@@ -1,0 +1,60 @@
+{"key": "ke5024ab", "correct": false, "extracted_answer": "Giuseppe Verdi", "reason": "It names Verdi, not Vivaldi."}
+{"key": "k35d1d33", "correct": true, "extracted_answer": "206", "reason": "\"About 206\" matches."}
+{"key": "k70ccd7a", "correct": true, "extracted_answer": "7", "reason": "It says the pairs add up to 7."}
+{"key": "k37cfbfd", "correct": true, "extracted_answer": "Au", "reason": "\"The symbol for gold is Au\"."}
+{"key": "kf51482a", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "\"written by Chinua Achebe\"."}
+{"key": "k435708a", "correct": false, "extracted_answer": "George Washington", "reason": "Says Washington, not John Adams."}
+{"key": "ka36dde1", "correct": true, "extracted_answer": "blue whale", "reason": "Names the blue whale as the largest living thing; the other animals are given much smaller sizes."}
+{"key": "kba6afc2", "correct": false, "extracted_answer": "Gioachino Rossi", "reason": "Wrong composer."}
+{"key": "k7723852", "correct": true, "extracted_answer": "bishop", "reason": "It names the bishop, though the rest of the sentence is garbled."}
+{"key": "k04fdd4a", "correct": true, "extracted_answer": "28 m²", "reason": "28 matches."}
+{"key": "ke5585f1", "correct": true, "extracted_answer": "Spanish", "reason": "\"The original Spanish version\"."}
+{"key": "k4edd90b", "correct": true, "extracted_answer": "5/8", "reason": "It says five are left, \\frac{5}{8}."}
+{"key": "k10c1c58", "correct": true, "extracted_answer": "German", "reason": "\"derived from German\"."}
+{"key": "k3852b21", "correct": false, "extracted_answer": "Two", "reason": "Wrong count."}
+{"key": "k8d2f7fd", "correct": false, "extracted_answer": "Vesubyek in Sicily", "reason": "Not Angel Falls."}
+{"key": "ka5eea46", "correct": true, "extracted_answer": "206", "reason": "\"206 bones\"."}
+{"key": "k9a4eb39", "correct": true, "extracted_answer": "skin", "reason": "\"largest organ ... is the skin\"."}
+{"key": "k271a7d6", "correct": true, "extracted_answer": "Homer", "reason": "Says Homer is said to have composed them."}
+{"key": "k58aef99", "correct": true, "extracted_answer": "White blood cells", "reason": "\"White blood cells help us do that\"."}
+{"key": "kf9407a2", "correct": true, "extracted_answer": "hydrogen", "reason": "\"is hydrogen\"."}
+{"key": "k907aa37", "correct": true, "extracted_answer": "Zeus", "reason": "Zeus."}
+{"key": "kd16ca95", "correct": true, "extracted_answer": "Ottawa", "reason": "Ottawa."}
+{"key": "ke83361e", "correct": true, "extracted_answer": "carbon dioxide", "reason": "\"Plants use carbon dioxide\"."}
+{"key": "ka310d3d", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Matches."}
+{"key": "kc831a3c", "correct": true, "extracted_answer": "hydrogen", "reason": "\"it is called hydrogen\"."}
+{"key": "kca8b1bd", "correct": true, "extracted_answer": "Egypt", "reason": "Egypt."}
+{"key": "ka0651d8", "correct": true, "extracted_answer": "Au", "reason": "Au."}
+{"key": "k85b879e", "correct": true, "extracted_answer": "Ankara", "reason": "\"The capital is Ankara\"."}
+{"key": "k6fcebb9", "correct": false, "extracted_answer": "George Washington", "reason": "Not John Adams."}
+{"key": "kde93ab2", "correct": true, "extracted_answer": "5/8", "reason": "\\frac{5}{8}."}
+{"key": "k0a492ed", "correct": true, "extracted_answer": "225", "reason": "\"= 225\"."}
+{"key": "k3bf8272", "correct": true, "extracted_answer": "eight", "reason": "\"has eight legs\"."}
+{"key": "kb869512", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Matches."}
+{"key": "kfbea41e", "correct": true, "extracted_answer": "5,280", "reason": "Matches."}
+{"key": "kf197884", "correct": false, "extracted_answer": "5,220", "reason": "Wrong sum, not 625."}
+{"key": "kd54b4fd", "correct": false, "extracted_answer": "December", "reason": "Not February."}
+{"key": "ke49f6c5", "correct": true, "extracted_answer": "6", "reason": "\"6-sided polygon\"."}
+{"key": "k4c46619", "correct": true, "extracted_answer": "1914", "reason": "Says it started with the June 28, 1914 assassination; the 1917 date is for US entry."}
+{"key": "k415e2f0", "correct": false, "extracted_answer": "oxygen", "reason": "\"The answer is oxygen\"."}
+{"key": "kdc70ae8", "correct": true, "extracted_answer": "Indian Ocean", "reason": "\"The Indian Ocean is the one\"."}
+{"key": "k6c6f77e", "correct": true, "extracted_answer": "16", "reason": "Matches."}
+{"key": "kaa3ac7c", "correct": true, "extracted_answer": "went", "reason": "Matches."}
+{"key": "k8bb35c3", "correct": true, "extracted_answer": "1024", "reason": "Matches."}
+{"key": "k4b79d97", "correct": true, "extracted_answer": "White blood cells", "reason": "Matches."}
+{"key": "k17b9264", "correct": true, "extracted_answer": "chickpeas", "reason": "Lists chickpeas first as the main ingredient."}
+{"key": "k7ee8155", "correct": true, "extracted_answer": "hail", "reason": "\"called hail\"."}
+{"key": "kc3486a6", "correct": false, "extracted_answer": "January", "reason": "Not February."}
+{"key": "k9ecf039", "correct": false, "extracted_answer": "humerus", "reason": "Says humerus, not femur."}
+{"key": "k7ea311c", "correct": false, "extracted_answer": "Apollo 11 mission, July 1969", "reason": "Never names Neil Armstrong."}
+{"key": "k2b8c561", "correct": true, "extracted_answer": "1989", "reason": "\"It fell in 1989\"."}
+{"key": "k939e6f1", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Names Qin Shi Huang as the first emperor with the Terracotta Army."}
+{"key": "kb204001", "correct": false, "extracted_answer": "none", "reason": "Says five eggs and twenty for fifty cakes, never 15."}
+{"key": "k658e27e", "correct": false, "extracted_answer": "512", "reason": "Working ends at 512."}
+{"key": "k048cb71", "correct": true, "extracted_answer": "Lake Superior", "reason": "\"Lake Superior is the largest\"."}
+{"key": "k8f3ebcb", "correct": true, "extracted_answer": "1789", "reason": "\"start of the French Revolution was 1789\"."}
+{"key": "kdffafd4", "correct": false, "extracted_answer": "Old Norse", "reason": "Says it comes from Old Norse."}
+{"key": "kb90eb9e", "correct": true, "extracted_answer": "Ankara", "reason": "Matches."}
+{"key": "k229fbce", "correct": false, "extracted_answer": "France", "reason": "Not Vatican City."}
+{"key": "k98413ba", "correct": true, "extracted_answer": "The yolk", "reason": "Matches."}
+{"key": "ka2ca4fc", "correct": true, "extracted_answer": "Pacific Ocean", "reason": "Leads with the Pacific Ocean."}

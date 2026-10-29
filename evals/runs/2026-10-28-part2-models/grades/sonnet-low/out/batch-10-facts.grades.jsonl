@@ -1,0 +1,60 @@
+{"key":"k0b6432e","correct":true,"extracted_answer":"168","reason":"It opens with 168 and its working ends 7 x 24 = 168."}
+{"key":"k8cdbf6e","correct":false,"extracted_answer":"none","reason":"It says the answer depends on what 'area' means and does not commit to the Pacific."}
+{"key":"k0010e05","correct":false,"extracted_answer":"none","reason":"It says 'there is no single correct answer' and never gives mice as the plural."}
+{"key":"kfdb5609","correct":true,"extracted_answer":"5,280 feet","reason":"It says 'One mile is exactly 5,280 feet.'"}
+{"key":"k1e651eb","correct":false,"extracted_answer":"many trees, not just oak","reason":"It says acorns come from many trees 'not just oak' and lists others without committing to oak."}
+{"key":"k5ccb8b9","correct":true,"extracted_answer":"Greenland","reason":"It says 'The largest island by area is Greenland.'"}
+{"key":"k6d8b860","correct":true,"extracted_answer":"nitrogen","reason":"It says nitrogen makes up 78%."}
+{"key":"kefa7d74","correct":true,"extracted_answer":"Mice","reason":"The whole response is 'Mice.'"}
+{"key":"k7eed9b6","correct":true,"extracted_answer":"white blood cells","reason":"It names white blood cells as defending against infection."}
+{"key":"k1038cb4","correct":true,"extracted_answer":"condensation","reason":"It says 'The answer is condensation.'"}
+{"key":"k5b50fab","correct":false,"extracted_answer":"orange or red","reason":"It says mixing blue and yellow gives orange or red, not green."}
+{"key":"k8a14886","correct":false,"extracted_answer":"The Netherlands","reason":"It names the Netherlands, not Italy."}
+{"key":"k34b7944","correct":true,"extracted_answer":"condensation","reason":"It says 'The answer is condensation.'"}
+{"key":"k594dd39","correct":false,"extracted_answer":"six, but irregular ones can have five or seven","reason":"It mentions six but then says a hexagon can have five or seven sides, so it contradicts itself."}
+{"key":"kac2e68f","correct":true,"extracted_answer":"Ottawa","reason":"It says 'The capital of Canada is Ottawa.'"}
+{"key":"ke31bdc5","correct":true,"extracted_answer":"Soybeans","reason":"The response is 'Soybeans.'"}
+{"key":"kdf9ac78","correct":true,"extracted_answer":"lava","reason":"It concludes 'it is referred to as lava.'"}
+{"key":"k8946763","correct":true,"extracted_answer":"carbon dioxide","reason":"It names carbon dioxide as the gas taken up for photosynthesis."}
+{"key":"kcbc2669","correct":true,"extracted_answer":"$7.50","reason":"It computes 3 × 2.50 = $7.50."}
+{"key":"kca19efc","correct":true,"extracted_answer":"210 minutes","reason":"It answers '210 minutes.'"}
+{"key":"k0cb0127","correct":false,"extracted_answer":"a crater or caldera","reason":"It says erupted material is called a crater or caldera, not lava."}
+{"key":"k6359247","correct":false,"extracted_answer":"New Zealand","reason":"It says New Zealand, not Greenland."}
+{"key":"k16812e5","correct":true,"extracted_answer":"The yolk","reason":"The response is 'The yolk.'"}
+{"key":"k474a5eb","correct":true,"extracted_answer":"9","reason":"The response is '9.'"}
+{"key":"kffac996","correct":false,"extracted_answer":"5-7 syllables per line","reason":"It gives '5-7', not 5, 7, 5."}
+{"key":"k519fdfd","correct":true,"extracted_answer":"Vitamin D","reason":"The response is 'Vitamin D.'"}
+{"key":"k48e3f38","correct":true,"extracted_answer":"$45","reason":"The response is '$45.'"}
+{"key":"kcc6c273","correct":true,"extracted_answer":"The equator","reason":"The response is 'The equator.'"}
+{"key":"k12c4889","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"It names Mahatma Gandhi as the leader."}
+{"key":"kca9a115","correct":false,"extracted_answer":"no whole number answer","reason":"It says 'there is no whole number answer' and mentions an extra page, instead of 8 days."}
+{"key":"k104d4ee","correct":true,"extracted_answer":"Two","reason":"The response is 'Two.'"}
+{"key":"kd5b5bc0","correct":true,"extracted_answer":"France","reason":"The response is 'France.'"}
+{"key":"k0ee2b70","correct":true,"extracted_answer":"Nitrogen","reason":"The response is 'Nitrogen.'"}
+{"key":"kb134579","correct":true,"extracted_answer":"3,600","reason":"The response is '3,600.'"}
+{"key":"k1fdc139","correct":true,"extracted_answer":"5280","reason":"It opens with 5280; the 1,609.34 text comes in an invented follow-up question."}
+{"key":"k57a6379","correct":false,"extracted_answer":"Robert Falcon Scott","reason":"It names Scott, not Amundsen."}
+{"key":"kd114d64","correct":true,"extracted_answer":"Saturn","reason":"It names Saturn and its ring system."}
+{"key":"ka848716","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"It names Johannes Gutenberg as inventing movable metal type."}
+{"key":"k5f20f60","correct":false,"extracted_answer":"Oregano","reason":"It says Oregano, not basil."}
+{"key":"k3fb903b","correct":true,"extracted_answer":"366","reason":"It says 'there will be 366 days in a leap year.'"}
+{"key":"kb8b087e","correct":true,"extracted_answer":"Vitamin D","reason":"It says the body makes vitamin D from UVB sunlight."}
+{"key":"k7f2259e","correct":true,"extracted_answer":"210","reason":"The response is '210.'"}
+{"key":"k6758ef8","correct":true,"extracted_answer":"Chinua Achebe","reason":"It says the author is Chinua Achebe."}
+{"key":"kf83804a","correct":true,"extracted_answer":"Mount Everest","reason":"It names Mount Everest as the tallest peak."}
+{"key":"k0f8613b","correct":true,"extracted_answer":"Thomas Jefferson","reason":"The response is 'Thomas Jefferson.'"}
+{"key":"ka9f3a4e","correct":true,"extracted_answer":"the bishop","reason":"It identifies the bishop as the diagonal mover, though the details are garbled."}
+{"key":"k37a8cf0","correct":false,"extracted_answer":"depends; Ottawa in English Canada, Montreal in Quebec","reason":"It says the answer depends and makes Montreal the national seat in Quebec, so it contradicts itself."}
+{"key":"k5c48dd2","correct":true,"extracted_answer":"South America","reason":"The response is 'South America.'"}
+{"key":"k03f0ecb","correct":false,"extracted_answer":"23 pairs, about 46, also 464","reason":"It says 'four hundred sixty-four' and says an egg carries 23 pairs, so it contradicts itself."}
+{"key":"k36bf728","correct":false,"extracted_answer":"A mistaken belief things are already known","reason":"It does not give 'already seen'."}
+{"key":"k06237a6","correct":true,"extracted_answer":"Spanish","reason":"The response is 'Spanish.'"}
+{"key":"kdf0a846","correct":true,"extracted_answer":"Zeus","reason":"It says Zeus rules over the Olympian gods, despite the hedging."}
+{"key":"k2945fd2","correct":true,"extracted_answer":"210","reason":"The response is '210'."}
+{"key":"kba96ba4","correct":false,"extracted_answer":"rhymes","reason":"It says such words are called rhymes, not onomatopoeia."}
+{"key":"k1df108b","correct":true,"extracted_answer":"Vincent van Gogh","reason":"It says the painting was by Vincent van Gogh."}
+{"key":"k967433d","correct":true,"extracted_answer":"The yolk","reason":"It says 'The yolk is what we call it.'"}
+{"key":"k075b959","correct":true,"extracted_answer":"16","reason":"It says 'There are 16 ounces in one pound.'"}
+{"key":"k8e862d3","correct":true,"extracted_answer":"$7.50","reason":"It says 'You spent $7.50'."}
+{"key":"k596ea98","correct":true,"extracted_answer":"Spanish","reason":"It refers to the original Spanish version of Don Quixote."}
+{"key":"kd353c69","correct":true,"extracted_answer":"white blood cells","reason":"It says white blood cells are the ones most directly fighting infection."}

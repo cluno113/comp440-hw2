@@ -1,0 +1,60 @@
+{"key": "kd11da54", "correct": false, "extracted_answer": "January, February and March", "reason": "It lists three months instead of committing to February."}
+{"key": "kef2ed24", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Says Vincent van Gogh."}
+{"key": "k09474e0", "correct": true, "extracted_answer": "Homer", "reason": "Says Homer."}
+{"key": "k6b762d4", "correct": true, "extracted_answer": "Egypt", "reason": "Says Egypt."}
+{"key": "k31d7bf9", "correct": true, "extracted_answer": "Hydrogen", "reason": "Says Hydrogen."}
+{"key": "k64c6f6e", "correct": false, "extracted_answer": "none", "reason": "It talks about thunderclouds and never says hail."}
+{"key": "k37ee956", "correct": false, "extracted_answer": "80 days", "reason": "Says 80 days, not 8."}
+{"key": "k057fe6d", "correct": true, "extracted_answer": "two", "reason": "Says bi- means \"two\"."}
+{"key": "kf16f394", "correct": true, "extracted_answer": "635", "reason": "Says 635."}
+{"key": "k4a2b303", "correct": false, "extracted_answer": "$90 for six pairs / $15 apiece", "reason": "The final sale price is wrong, not $45."}
+{"key": "kfec167b", "correct": false, "extracted_answer": "5, 7 and 5, then six syllables per line", "reason": "It says 5, 7 and 5 but then contradicts itself with \"six syllables per line\"."}
+{"key": "k1d24fcc", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "\"The answer is Leonardo da Vinci.\""}
+{"key": "ka8d9e78", "correct": true, "extracted_answer": "Nitrogen (about 78%)", "reason": "Says nitrogen is the largest component at 78%."}
+{"key": "k03e745d", "correct": true, "extracted_answer": "the aorta / arteries", "reason": "Names the aorta as an artery carrying blood out of the heart and lists arteries."}
+{"key": "k0eea0d8", "correct": true, "extracted_answer": "1991", "reason": "Says 1991."}
+{"key": "kd65e6b6", "correct": true, "extracted_answer": "46", "reason": "Says \"exactly 46, with 23 on each side\"."}
+{"key": "k631f7d4", "correct": false, "extracted_answer": "Homophone", "reason": "Says Homophone, not onomatopoeia."}
+{"key": "kcb4bdc7", "correct": true, "extracted_answer": "Ottawa", "reason": "Says Ottawa."}
+{"key": "k92304f4", "correct": false, "extracted_answer": "4-sided and 6-sided", "reason": "Gives 4 and 6 sides, not 8."}
+{"key": "k32e10d9", "correct": false, "extracted_answer": "New Zealand's Big Island", "reason": "Not Greenland."}
+{"key": "k8c72e36", "correct": true, "extracted_answer": "366", "reason": "Says 366."}
+{"key": "k4a31b43", "correct": false, "extracted_answer": "United Kingdom", "reason": "Talks about the UK and Ireland, never Vatican City."}
+{"key": "kb2864f3", "correct": true, "extracted_answer": "16", "reason": "Says 16."}
+{"key": "k28698ea", "correct": true, "extracted_answer": "32°F", "reason": "\"Water freezes at 32°F\"."}
+{"key": "kfa92189", "correct": false, "extracted_answer": "I already know it", "reason": "Not a literal translation of already seen."}
+{"key": "kc4f3ed7", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "Names Mahatma Gandhi."}
+{"key": "k81ce462", "correct": false, "extracted_answer": "none (no fixed number)", "reason": "It says six sides for a regular hexagon but then says there are no fixed numbers."}
+{"key": "k6322898", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "Says Gabriel García Márquez."}
+{"key": "kbfc46a4", "correct": true, "extracted_answer": "thank you", "reason": "\"gracias\" means thank you."}
+{"key": "k1ba08e6", "correct": true, "extracted_answer": "15 eggs", "reason": "Says 15."}
+{"key": "kf706d18", "correct": true, "extracted_answer": "Antonym", "reason": "Says Antonym."}
+{"key": "ke2dde34", "correct": true, "extracted_answer": "168", "reason": "Says 168."}
+{"key": "k5e6ccff", "correct": true, "extracted_answer": "5,280", "reason": "\"There are 5,280 feet in one mile.\""}
+{"key": "kd8b3bdf", "correct": true, "extracted_answer": "vitamin D", "reason": "Skin makes vitamin D."}
+{"key": "k8a4d7a9", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "First states Gabriel García Márquez wrote it; the later rambling is unrelated working."}
+{"key": "k27e76c4", "correct": true, "extracted_answer": "lava", "reason": "Says lava."}
+{"key": "k08f3e25", "correct": false, "extracted_answer": "gracia, meaning grace or favor", "reason": "It says the Spanish word for thank you is gracia and never says gracias means thank you."}
+{"key": "kd7108d1", "correct": false, "extracted_answer": "penny", "reason": "Talks about the penny, never the dime."}
+{"key": "k4af5894", "correct": true, "extracted_answer": "28 m^2", "reason": "Gives 28 m^2."}
+{"key": "k549af18", "correct": true, "extracted_answer": "The equator", "reason": "\"The equator is that line.\""}
+{"key": "k4a461b5", "correct": false, "extracted_answer": "John Locke, Thomas Jefferson, Benjamin Franklin and Roger Sherman", "reason": "It lists several authors including wrong ones and does not commit to Jefferson."}
+{"key": "kb9f1dd7", "correct": true, "extracted_answer": "Antonio Vivaldi", "reason": "Names Antonio Vivaldi."}
+{"key": "kca618c2", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "k410a5e6", "correct": true, "extracted_answer": "South American continent", "reason": "Says Argentina is on the South American continent."}
+{"key": "k2630a49", "correct": true, "extracted_answer": "1789", "reason": "Says 1789."}
+{"key": "k598ffd5", "correct": true, "extracted_answer": "1024", "reason": "The working arrives at 1024."}
+{"key": "k0fb5d35", "correct": true, "extracted_answer": "366", "reason": "It concludes there are 366 days in a leap year."}
+{"key": "k48ddede", "correct": true, "extracted_answer": "basil", "reason": "Lists basil first among the ingredients."}
+{"key": "k33b17f4", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Says Qin Shi Huang."}
+{"key": "k16858e8", "correct": true, "extracted_answer": "antonym", "reason": "\"The word you're looking for is antonym.\""}
+{"key": "kdf925d9", "correct": false, "extracted_answer": "Damselfly Falls", "reason": "Names a wrong waterfall, not Angel Falls."}
+{"key": "k8ac8c31", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "ked75001", "correct": true, "extracted_answer": "White blood cell", "reason": "Says White blood cell."}
+{"key": "kc227c0f", "correct": true, "extracted_answer": "nucleus", "reason": "\"is called the nucleus\"."}
+{"key": "kb38186d", "correct": false, "extracted_answer": "795", "reason": "Answers 795, not 635."}
+{"key": "kd9c3946", "correct": false, "extracted_answer": "Latin and Spanish", "reason": "Says both Latin and Spanish and gives wrong details, so it does not commit to Spanish."}
+{"key": "k5c1d3f5", "correct": false, "extracted_answer": "144", "reason": "Computes twelve squared as 144, not 225."}
+{"key": "kc7c44e7", "correct": false, "extracted_answer": "four", "reason": "The answer is \"four\", then it adds nonsense about species having two or dozens of legs."}
+{"key": "k436fa1d", "correct": true, "extracted_answer": "The Mayflower", "reason": "Says The Mayflower."}
+{"key": "k68500b3", "correct": true, "extracted_answer": "±13", "reason": "Gives 13 (with the negative root)."}

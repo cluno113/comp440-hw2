@@ -1,0 +1,15 @@
+{"key": "ka45bcfa", "correct": true, "extracted_answer": "28 square meters", "reason": "It states \"It is 28 square meters.\""}
+{"key": "k236ee59", "correct": false, "extracted_answer": "Leonardo da Vinci and Raphael (conflicting)", "reason": "It credits Leonardo da Vinci but then says Raphael \"is widely accepted as its creator\", giving conflicting answers."}
+{"key": "k3ba33e3", "correct": false, "extracted_answer": "none", "reason": "It says \"The answer is not one we can give easily\" and denies a 1492 voyage, never committing to 1492."}
+{"key": "k963543b", "correct": true, "extracted_answer": "Capture the day", "reason": "\"Capture the day\" is an obvious synonym of \"seize the day\"."}
+{"key": "k653a5d8", "correct": true, "extracted_answer": "White blood cell", "reason": "\"White blood cell\" is an accepted form."}
+{"key": "k06092cf", "correct": false, "extracted_answer": "none", "reason": "It says the plural \"refers to a type of rodent\" and never directly states that the plural is \"mice\"."}
+{"key": "k1596e16", "correct": false, "extracted_answer": "elephants", "reason": "The main answer is \"elephants\"; blue whales appear only in a later list."}
+{"key": "k6957dea", "correct": true, "extracted_answer": "Antonio Vivaldi", "reason": "It says \"The answer lies in Antonio Vivaldi's hands.\""}
+{"key": "k3e2ce4b", "correct": false, "extracted_answer": "none", "reason": "It calls 366 only \"a common answer\" and then says \"this is debated\" and mentions 365 days, so it never commits."}
+{"key": "kf09e73e", "correct": false, "extracted_answer": "none", "reason": "It defines bicycle and bilingual but never says the prefix 'bi-' means two."}
+{"key": "k1975233", "correct": true, "extracted_answer": "Ohms", "reason": "\"Ohms\" is an accepted form."}
+{"key": "k7700349", "correct": false, "extracted_answer": "none", "reason": "Its main answer only defines a hole; 18 appears later inside leftover self-assessment text."}
+{"key": "k4aee379", "correct": false, "extracted_answer": "N. K. Jemisin", "reason": "It names N. K. Jemisin, not Chinua Achebe."}
+{"key": "k21bbd4d", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It names Robert Falcon Scott, not Roald Amundsen."}
+{"key": "k658f4b5", "correct": true, "extracted_answer": "Lake Superior", "reason": "It says \"Lake Superior is the largest by volume and surface area.\""}

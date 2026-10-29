@@ -1,0 +1,60 @@
+{"key":"k9240b30","correct":true,"extracted_answer":"Tokyo","reason":"Starts with Tokyo."}
+{"key":"kc56a879","correct":true,"extracted_answer":"eight","reason":"Says a spider has eight legs."}
+{"key":"kea414f4","correct":false,"extracted_answer":"none","reason":"Talks about chlorophyll and energy, never vitamin D."}
+{"key":"keab4d35","correct":false,"extracted_answer":"Goed","reason":"Answers 'Goed', not went."}
+{"key":"k16e8493","correct":false,"extracted_answer":"seven, but also eight","reason":"Says one and four total eight, contradicting itself."}
+{"key":"kbd5ed68","correct":false,"extracted_answer":"no single number; six, ten or 18","reason":"Denies a standard number and lists several."}
+{"key":"kca06870","correct":true,"extracted_answer":"Charles Dickens","reason":"Correct."}
+{"key":"keec95cd","correct":true,"extracted_answer":"Neil Armstrong","reason":"Correct."}
+{"key":"k759a1ca","correct":false,"extracted_answer":"none; all roughly equal","reason":"Says no lake is larger than another."}
+{"key":"k0dfc4e2","correct":false,"extracted_answer":"albumen","reason":"Calls the yellow center albumen."}
+{"key":"kf34e919","correct":false,"extracted_answer":"none","reason":"Never states the plural as the answer; rambles."}
+{"key":"k1dc5b7f","correct":false,"extracted_answer":"simile","reason":"Names simile first; onomatopoeia only as an example in a list."}
+{"key":"k96a63ec","correct":true,"extracted_answer":"$7.50","reason":"Working gives $7.50."}
+{"key":"k6264cf3","correct":false,"extracted_answer":"none","reason":"Never gives Au."}
+{"key":"k740bfa9","correct":false,"extracted_answer":"one zero","reason":"Says only one zero."}
+{"key":"k400da41","correct":true,"extracted_answer":"Ural Mountains","reason":"Names the Ural Mountains."}
+{"key":"k6e4d390","correct":true,"extracted_answer":"chickpeas","reason":"Hummus is made with chickpeas."}
+{"key":"k2a95a9d","correct":true,"extracted_answer":"The Volga","reason":"Correct."}
+{"key":"k8d4ab87","correct":false,"extracted_answer":"seventy-eight","reason":"Wrong product."}
+{"key":"k065183e","correct":true,"extracted_answer":"seize this moment","reason":"Equivalent to seize the day."}
+{"key":"kc576ce9","correct":false,"extracted_answer":"a hundred and twenty, then 206","reason":"Says 120 first, then 206, conflicting."}
+{"key":"k18cec3b","correct":true,"extracted_answer":"Milky Way","reason":"Names our Milky Way."}
+{"key":"k3e65dc5","correct":true,"extracted_answer":"The Inca","reason":"Correct."}
+{"key":"k1f79158","correct":true,"extracted_answer":"green","reason":"A shade of green."}
+{"key":"k979fc15","correct":true,"extracted_answer":"1945","reason":"Correct."}
+{"key":"k0475794","correct":true,"extracted_answer":"Lake Superior","reason":"Correct, area figure wrong but irrelevant."}
+{"key":"k6045d9b","correct":true,"extracted_answer":"Arteries","reason":"Correct."}
+{"key":"k65a0723","correct":true,"extracted_answer":"Sputnik I","reason":"Sputnik."}
+{"key":"kcde9060","correct":false,"extracted_answer":"7/8","reason":"Says 7/8 left."}
+{"key":"kaa1c5a4","correct":true,"extracted_answer":"seize the day","reason":"States it directly."}
+{"key":"k82c2317","correct":true,"extracted_answer":"England","reason":"Correct."}
+{"key":"k0837f00","correct":false,"extracted_answer":"humerus","reason":"Humerus, not femur."}
+{"key":"k117de27","correct":true,"extracted_answer":"1945","reason":"Correct."}
+{"key":"k4f08822","correct":true,"extracted_answer":"honey","reason":"Says the bee-food made is honey."}
+{"key":"k9a7317d","correct":true,"extracted_answer":"carbon dioxide (CO2)","reason":"Plants use carbon dioxide."}
+{"key":"k7f72c8c","correct":true,"extracted_answer":"Venus","reason":"Correct."}
+{"key":"k4b92dd3","correct":true,"extracted_answer":"femur","reason":"Longest bone is the femur."}
+{"key":"k85e9079","correct":true,"extracted_answer":"206","reason":"Answer is 206."}
+{"key":"kde5904b","correct":true,"extracted_answer":"The Milky Way","reason":"Correct."}
+{"key":"k35c1bd4","correct":true,"extracted_answer":"56","reason":"Correct."}
+{"key":"k309b71b","correct":true,"extracted_answer":"52","reason":"Says standard 52-card deck."}
+{"key":"kbdca12d","correct":false,"extracted_answer":"7.67","reason":"Says seven and two thirds."}
+{"key":"k363cd86","correct":false,"extracted_answer":"Giuseppe Verdi","reason":"Verdi, not Vivaldi."}
+{"key":"k0961455","correct":false,"extracted_answer":"Vosges Glacier Falls","reason":"Not Angel Falls."}
+{"key":"kd7706e7","correct":false,"extracted_answer":"Greek yogurt","reason":"Wrong ingredient."}
+{"key":"kf324bdf","correct":true,"extracted_answer":"The blue whale","reason":"Correct."}
+{"key":"kc672ecf","correct":true,"extracted_answer":"46","reason":"Diploid number of 46."}
+{"key":"kb527696","correct":false,"extracted_answer":"experienced something before; not exact translation","reason":"Does not give literal 'already seen' and invents Latin etymology."}
+{"key":"ke3b2ec0","correct":true,"extracted_answer":"3600","reason":"Correct."}
+{"key":"k0d3fca2","correct":false,"extracted_answer":"Nine","reason":"Nine, not 18."}
+{"key":"k6551e17","correct":true,"extracted_answer":"Seine","reason":"The River Seine."}
+{"key":"k9f1ade7","correct":true,"extracted_answer":"Alexander Fleming","reason":"Names Fleming."}
+{"key":"k2df8a24","correct":true,"extracted_answer":"France","reason":"Donated by France."}
+{"key":"ke82657f","correct":false,"extracted_answer":"Theodore Roosevelt","reason":"Wrong president."}
+{"key":"k71e9dca","correct":true,"extracted_answer":"Tokyo","reason":"Correct."}
+{"key":"k2cc344e","correct":true,"extracted_answer":"52","reason":"Correct."}
+{"key":"k70623f3","correct":true,"extracted_answer":"The skin","reason":"Correct."}
+{"key":"kc726519","correct":true,"extracted_answer":"Alexander Fleming","reason":"Correct."}
+{"key":"k72091d6","correct":true,"extracted_answer":"1989","reason":"Correct."}
+{"key":"kbada492","correct":false,"extracted_answer":"Oregano","reason":"Oregano, not basil."}

@@ -1,0 +1,60 @@
+{"key": "k1c89dff", "correct": false, "extracted_answer": "Cinderella", "reason": "Says 'The answer is Cinderella', not The Nutcracker."}
+{"key": "k9def533", "correct": true, "extracted_answer": "Tokyo", "reason": "States 'Tokyo is the name of both its capital'."}
+{"key": "k47885af", "correct": false, "extracted_answer": "United Kingdom", "reason": "Answers the United Kingdom, not Italy."}
+{"key": "k4774b84", "correct": false, "extracted_answer": "Take life day by day", "reason": "Gives 'Take life day by day', not seize the day."}
+{"key": "k62cb81c", "correct": false, "extracted_answer": "unit of electric current", "reason": "Describes current, never says ohm."}
+{"key": "ka065fc9", "correct": false, "extracted_answer": "The Pacific Ocean", "reason": "Says Pacific, not Indian."}
+{"key": "kde17969", "correct": true, "extracted_answer": "Venus", "reason": "Says 'is Venus'."}
+{"key": "k3843381", "correct": false, "extracted_answer": "George Washington", "reason": "Commits to George Washington; John Adams only as an aside."}
+{"key": "k31ae27e", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "Names Johannes Gutenberg."}
+{"key": "ka8a5acd", "correct": true, "extracted_answer": "15", "reason": "Answers 15."}
+{"key": "k10db339", "correct": true, "extracted_answer": "The Nutcracker", "reason": "Names 'The Nutcracker'."}
+{"key": "kcf4efb6", "correct": true, "extracted_answer": "1989", "reason": "Says the wall fell in 1989 (month wrong but year correct)."}
+{"key": "k6c05841", "correct": true, "extracted_answer": "1,024", "reason": "Answers 1,024."}
+{"key": "kd4371a1", "correct": false, "extracted_answer": "24", "reason": "Answers 24, not 168."}
+{"key": "k199fbf4", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Names Qin Shi Huang."}
+{"key": "k4387f1d", "correct": true, "extracted_answer": "Sputnik 1", "reason": "Answers Sputnik 1."}
+{"key": "k93c940b", "correct": true, "extracted_answer": "The Volga", "reason": "Says the Volga is the longest river in Europe."}
+{"key": "k0c5da18", "correct": true, "extracted_answer": "56", "reason": "Answers 56."}
+{"key": "kd5a8048", "correct": true, "extracted_answer": "Au", "reason": "Says symbol is Au."}
+{"key": "kd01fc91", "correct": true, "extracted_answer": "oak", "reason": "Says 'the oak'."}
+{"key": "k4bcd249", "correct": false, "extracted_answer": "none", "reason": "Never says Dickens created Scrooge; muddles with The Grinch."}
+{"key": "k09ffca4", "correct": true, "extracted_answer": "Ohm (Ω)", "reason": "Answers Ohm."}
+{"key": "k288a961", "correct": false, "extracted_answer": "Lake Michigan", "reason": "Says Lake Michigan holds that title."}
+{"key": "k9cb4db8", "correct": true, "extracted_answer": "two", "reason": "Says 'bi-' means two."}
+{"key": "k09088d4", "correct": true, "extracted_answer": "150 miles", "reason": "Computes 60 times 2.5 = 150 miles."}
+{"key": "ke7f857a", "correct": true, "extracted_answer": "13", "reason": "Answers 13."}
+{"key": "k82cc4e5", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Names Leonardo da Vinci."}
+{"key": "kf4c24e3", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "Names Chinua Achebe."}
+{"key": "k022f7cc", "correct": true, "extracted_answer": "soybeans", "reason": "Says miso is most often made with soybeans."}
+{"key": "kf81e69c", "correct": false, "extracted_answer": "the Rhine", "reason": "Commits to the Rhine; Volga only as a contender."}
+{"key": "kcdaabdc", "correct": false, "extracted_answer": "none", "reason": "Main answer is that a hole is a unit of distance; 18 appears only later and muddled."}
+{"key": "kee27fb5", "correct": false, "extracted_answer": "974", "reason": "Answers 974, not 635."}
+{"key": "k2821984", "correct": false, "extracted_answer": "New Zealand's North Island", "reason": "Not Greenland."}
+{"key": "kf07a019", "correct": true, "extracted_answer": "Homer", "reason": "Names Homer."}
+{"key": "k30f4634", "correct": true, "extracted_answer": "The Pacific", "reason": "Answers The Pacific."}
+{"key": "k09153de", "correct": true, "extracted_answer": "Arteries", "reason": "Answers Arteries."}
+{"key": "kdf78b13", "correct": true, "extracted_answer": "1945", "reason": "Hedges but places the end in 1945 (Japan's surrender 1945)."}
+{"key": "k58edc03", "correct": true, "extracted_answer": "Oak trees", "reason": "Answers Oak trees."}
+{"key": "kd4e3d15", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Names Vincent van Gogh."}
+{"key": "k9cc614d", "correct": true, "extracted_answer": "64", "reason": "Says there are 64 squares."}
+{"key": "k8d713f3", "correct": true, "extracted_answer": "The bishop", "reason": "Answers The bishop."}
+{"key": "k39d11ab", "correct": false, "extracted_answer": "George Washington / either", "reason": "Names Washington and says it could be either; no commitment to John Adams."}
+{"key": "k0db2492", "correct": true, "extracted_answer": "46", "reason": "Answers 46."}
+{"key": "k894106d", "correct": true, "extracted_answer": "The Milky Way Galaxy", "reason": "Names the Milky Way."}
+{"key": "kea54347", "correct": true, "extracted_answer": "Angel Falls", "reason": "Names Angel Falls (location wrong but answer matches)."}
+{"key": "kd995f46", "correct": true, "extracted_answer": "Thank you", "reason": "Answers Thank you."}
+{"key": "k04f39f6", "correct": false, "extracted_answer": "Jefferson, Franklin and Adams", "reason": "Lists three authors as main authors, not committing to Thomas Jefferson alone."}
+{"key": "k5597c1a", "correct": false, "extracted_answer": "Germany", "reason": "Says Germany."}
+{"key": "kf442785", "correct": true, "extracted_answer": "The skin", "reason": "Answers The skin."}
+{"key": "k0268c44", "correct": true, "extracted_answer": "8 days", "reason": "240 / 30 = 8 days."}
+{"key": "k8226aaa", "correct": true, "extracted_answer": "$7.50", "reason": "Answers $7.50."}
+{"key": "kf82a4f8", "correct": false, "extracted_answer": "eight holes", "reason": "Says 'eight holes'."}
+{"key": "k844ded4", "correct": false, "extracted_answer": "gone", "reason": "Says past tense of go is 'gone'."}
+{"key": "k164fd95", "correct": false, "extracted_answer": "none", "reason": "Never names Jefferson; says authorship is unknown."}
+{"key": "k6d28213", "correct": true, "extracted_answer": "625", "reason": "Answers 625."}
+{"key": "k2a74a55", "correct": true, "extracted_answer": "3600", "reason": "Says 'There are 3600 seconds in an hour'."}
+{"key": "kbf8c144", "correct": true, "extracted_answer": "The skin", "reason": "Answers The skin."}
+{"key": "k3c28c75", "correct": true, "extracted_answer": "Saturn", "reason": "Answers Saturn."}
+{"key": "kd033149", "correct": false, "extracted_answer": "The Sleeping Beauty", "reason": "Says The Sleeping Beauty."}
+{"key": "kc40cfc4", "correct": false, "extracted_answer": "Iceland", "reason": "Says Iceland."}

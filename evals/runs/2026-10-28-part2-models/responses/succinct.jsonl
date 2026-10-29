@@ -1,0 +1,250 @@
+{"id": "facts-001", "model": "succinct", "response": "About 206.", "raw": " About 206.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-002", "model": "succinct", "response": "Carbon dioxide.", "raw": " Carbon dioxide.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-003", "model": "succinct", "response": "Au", "raw": " Au", "new_tokens": 1, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-004", "model": "succinct", "response": "Earth.", "raw": " Earth.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-005", "model": "succinct", "response": "The skin.", "raw": " The skin.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-006", "model": "succinct", "response": "46.", "raw": " 46.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-007", "model": "succinct", "response": "Nitrogen.", "raw": " Nitrogen.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-008", "model": "succinct", "response": "White blood cell.", "raw": " White blood cell.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-009", "model": "succinct", "response": "Vitamin D.", "raw": " Vitamin D.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-010", "model": "succinct", "response": "Hydrogen.", "raw": " Hydrogen.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-011", "model": "succinct", "response": "Two.", "raw": " Two.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-012", "model": "succinct", "response": "The nucleus.", "raw": " The nucleus.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-013", "model": "succinct", "response": "Arteries.", "raw": " Arteries.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-014", "model": "succinct", "response": "The blue whale.", "raw": " The blue whale.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-015", "model": "succinct", "response": "Saturn.", "raw": " Saturn.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-016", "model": "succinct", "response": "Ohms.", "raw": " Ohms.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-017", "model": "succinct", "response": "Condensation.", "raw": " Condensation.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-018", "model": "succinct", "response": "lava.", "raw": " lava.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-019", "model": "succinct", "response": "The Milky Way.", "raw": " The Milky Way.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-020", "model": "succinct", "response": "The humerus.", "raw": " The humerus.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-021", "model": "succinct", "response": "The Sahara Desert.", "raw": " The Sahara Desert.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-022", "model": "succinct", "response": "Ottawa.", "raw": " Ottawa.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-023", "model": "succinct", "response": "Ankara.", "raw": " Ankara.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-024", "model": "succinct", "response": "The Pacific.", "raw": " The Pacific.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-025", "model": "succinct", "response": "Mount Everest.", "raw": " Mount Everest.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-026", "model": "succinct", "response": "Canada.", "raw": " Canada.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-027", "model": "succinct", "response": "Iceland.", "raw": " Iceland.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-028", "model": "succinct", "response": "The Strait of Sicily.", "raw": " The Strait of Sicily.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-029", "model": "succinct", "response": "The Michigan Lake.", "raw": " The Michigan Lake.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-030", "model": "succinct", "response": "The Seine.", "raw": " The Seine.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-031", "model": "succinct", "response": "Tokyo.", "raw": " Tokyo.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-032", "model": "succinct", "response": "South America.", "raw": " South America.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-033", "model": "succinct", "response": "The Pacific.", "raw": " The Pacific.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-034", "model": "succinct", "response": "The Ural Mountains.", "raw": " The Ural Mountains.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-035", "model": "succinct", "response": "New Zealand's Big Island.", "raw": " New Zealand's Big Island.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-036", "model": "succinct", "response": "Germany.", "raw": " Germany.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-037", "model": "succinct", "response": "Egypt.", "raw": " Egypt.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-038", "model": "succinct", "response": "The equator.", "raw": " The equator.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-039", "model": "succinct", "response": "The Nile.", "raw": " The Nile.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-040", "model": "succinct", "response": "Vesubyek in Sicily.", "raw": " Vesubyek in Sicily.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-041", "model": "succinct", "response": "1945.", "raw": " 1945.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-042", "model": "succinct", "response": "The Mayflower.", "raw": " The Mayflower.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-043", "model": "succinct", "response": "Neil Armstrong in 1969.", "raw": " Neil Armstrong in 1969.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-044", "model": "succinct", "response": "1989.", "raw": " 1989.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-045", "model": "succinct", "response": "George Washington.", "raw": " George Washington.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-046", "model": "succinct", "response": "The Inca.", "raw": " The Inca.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-047", "model": "succinct", "response": "Robert Falcon Scott.", "raw": " Robert Falcon Scott.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-048", "model": "succinct", "response": "1492.", "raw": " 1492.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-049", "model": "succinct", "response": "Sputnik 1.", "raw": " Sputnik 1.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-050", "model": "succinct", "response": "Winston Churchill.", "raw": " Winston Churchill.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-051", "model": "succinct", "response": "1789.", "raw": " 1789.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-052", "model": "succinct", "response": "France.", "raw": " France.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-053", "model": "succinct", "response": "1914.", "raw": " 1914.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-054", "model": "succinct", "response": "George Washington.", "raw": " George Washington.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-055", "model": "succinct", "response": "Mahatma Gandhi.", "raw": " Mahatma Gandhi.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-056", "model": "succinct", "response": "England.", "raw": " England.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-057", "model": "succinct", "response": "Qin Shi Huang.", "raw": " Qin Shi Huang.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-058", "model": "succinct", "response": "Alexander Fleming.", "raw": " Alexander Fleming.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-059", "model": "succinct", "response": "1991.", "raw": " 1991.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-060", "model": "succinct", "response": "Johannes Gutenberg.", "raw": " Johannes Gutenberg.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-061", "model": "succinct", "response": "56.", "raw": " 56.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-062", "model": "succinct", "response": "210 minutes.", "raw": " 210 minutes.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-063", "model": "succinct", "response": "16.", "raw": " 16.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-064", "model": "succinct", "response": "5,280.", "raw": " 5,280.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-065", "model": "succinct", "response": "150 miles.", "raw": " 150 miles.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-066", "model": "succinct", "response": "13.", "raw": " 13.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-067", "model": "succinct", "response": "$45.", "raw": " $45.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-068", "model": "succinct", "response": "3,600.", "raw": " 3,600.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-069", "model": "succinct", "response": "$7.50.", "raw": " $7.50.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-070", "model": "succinct", "response": "15.", "raw": " 15.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-071", "model": "succinct", "response": "625.", "raw": " 625.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-072", "model": "succinct", "response": "635.", "raw": " 635.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-073", "model": "succinct", "response": "9.", "raw": " 9.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-074", "model": "succinct", "response": "$7/8$.", "raw": " $7/8$.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-075", "model": "succinct", "response": "6.", "raw": " 6.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-076", "model": "succinct", "response": "28 m².", "raw": " 28 m².", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-077", "model": "succinct", "response": "24.", "raw": " 24.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-078", "model": "succinct", "response": "1024.", "raw": " 1024.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-079", "model": "succinct", "response": "240 ÷ 30 = 8 days.", "raw": " 240 ÷ 30 = 8 days.", "new_tokens": 14, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-080", "model": "succinct", "response": "225.", "raw": " 225.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-081", "model": "succinct", "response": "Mice.", "raw": " Mice.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-082", "model": "succinct", "response": "Leonardo da Vinci.", "raw": " Leonardo da Vinci.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-083", "model": "succinct", "response": "Capture the day.", "raw": " Capture the day.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-084", "model": "succinct", "response": "Gabriel García Márquez.", "raw": " Gabriel García Márquez.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-085", "model": "succinct", "response": "Spanish.", "raw": " Spanish.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-086", "model": "succinct", "response": "Rhyme.", "raw": " Rhyme.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-087", "model": "succinct", "response": "N. K. Jemisin.", "raw": " N. K. Jemisin.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-088", "model": "succinct", "response": "5-7 syllabials per line.", "raw": " 5-7 syllabials per line.", "new_tokens": 10, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-089", "model": "succinct", "response": "Goed.", "raw": " Goed.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-090", "model": "succinct", "response": "Gioachino Rossi.", "raw": " Gioachino Rossi.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-091", "model": "succinct", "response": "Homer.", "raw": " Homer.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-092", "model": "succinct", "response": "Two halves.", "raw": " Two halves.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-093", "model": "succinct", "response": "Vincent van Gogh.", "raw": " Vincent van Gogh.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-094", "model": "succinct", "response": "Zeus.", "raw": " Zeus.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-095", "model": "succinct", "response": "German.", "raw": " German.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-096", "model": "succinct", "response": "Thank you.", "raw": " Thank you.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-097", "model": "succinct", "response": "Charles Dickens.", "raw": " Charles Dickens.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-098", "model": "succinct", "response": "The Sleeping Beauty.", "raw": " The Sleeping Beauty.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-099", "model": "succinct", "response": "Antonym.", "raw": " Antonym.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-100", "model": "succinct", "response": "A mistaken belief things are already known.", "raw": " A mistaken belief things are already known.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-101", "model": "succinct", "response": "Yellow.", "raw": " Yellow.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-102", "model": "succinct", "response": "Usually February 29.", "raw": " Usually February 29.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-103", "model": "succinct", "response": "52.", "raw": " 52.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-104", "model": "succinct", "response": "32°F.", "raw": " 32°F.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-105", "model": "succinct", "response": "Greek yogurt.", "raw": " Greek yogurt.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-106", "model": "succinct", "response": "Pressure.", "raw": " Pressure.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-107", "model": "succinct", "response": "Oak trees.", "raw": " Oak trees.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-108", "model": "succinct", "response": "Eight.", "raw": " Eight.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-109", "model": "succinct", "response": "4.", "raw": " 4.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-110", "model": "succinct", "response": "Soybeans.", "raw": " Soybeans.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-111", "model": "succinct", "response": "Snow.", "raw": " Snow.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-112", "model": "succinct", "response": "64.", "raw": " 64.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-113", "model": "succinct", "response": "Honey.", "raw": " Honey.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-114", "model": "succinct", "response": "December.", "raw": " December.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-115", "model": "succinct", "response": "6.", "raw": " 6.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-116", "model": "succinct", "response": "Penny.", "raw": " Penny.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-117", "model": "succinct", "response": "Oregano.", "raw": " Oregano.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-118", "model": "succinct", "response": "7.", "raw": " 7.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-119", "model": "succinct", "response": "The knight.", "raw": " The knight.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "facts-120", "model": "succinct", "response": "The yolk.", "raw": " The yolk.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-001", "model": "succinct", "response": "Not necessarily.", "raw": " Not necessarily.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-002", "model": "succinct", "response": "Most of the time.", "raw": " Most of the time.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-003", "model": "succinct", "response": "Not everyone has it, and usually not everything they see.", "raw": " Not everyone has it, and usually not everything they see.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-004", "model": "succinct", "response": "Not always.", "raw": " Not always.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-005", "model": "succinct", "response": "Yes.", "raw": " Yes.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-006", "model": "succinct", "response": "Wrong. The front senses sweetness, the back bitterness.", "raw": " Wrong. The front senses sweetness, the back bitterness.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-007", "model": "succinct", "response": "Not always. It's to hold urine not food.", "raw": " Not always. It's to hold urine not food.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-008", "model": "succinct", "response": "No.", "raw": " No.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-009", "model": "succinct", "response": "Not always. Some do this evenly; others wobble.", "raw": " Not always. Some do this evenly; others wobble.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-010", "model": "succinct", "response": "Not always. It's red.", "raw": " Not always. It's red.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-011", "model": "succinct", "response": "Not always.", "raw": " Not always.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-012", "model": "succinct", "response": "No. It's the star Polaris.\n\nI'm not a weatherman so I can't say.", "raw": " No. It's the star Polaris.\n\nI'm not a weatherman so I can't say.", "new_tokens": 21, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-013", "model": "succinct", "response": "Not all are. White is usually better for egg whites.", "raw": " Not all are. White is usually better for egg whites.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-014", "model": "succinct", "response": "Not always.", "raw": " Not always.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-015", "model": "succinct", "response": "Not always.", "raw": " Not always.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-016", "model": "succinct", "response": "Not all do. Dogs' years count days, humans' weeks.", "raw": " Not all do. Dogs' years count days, humans' weeks.", "new_tokens": 14, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-017", "model": "succinct", "response": "Not always. It resumes pumping quickly.", "raw": " Not always. It resumes pumping quickly.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-018", "model": "succinct", "response": "No. They coagulate them and climb away.", "raw": " No. They coagulate them and climb away.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-019", "model": "succinct", "response": "Our five senses—sight, sound, taste, smell, and touch—help us perceive the world.", "raw": " Our five senses—sight, sound, taste, smell, and touch—help us perceive the world.", "new_tokens": 22, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-020", "model": "succinct", "response": "Water absorbs more sunlight when it's warm.", "raw": " Water absorbs more sunlight when it's warm.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-021", "model": "succinct", "response": "The moon faces away from Earth.", "raw": " The moon faces away from Earth.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-022", "model": "succinct", "response": "They needed protection from slashing blades.", "raw": " They needed protection from slashing blades.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-023", "model": "succinct", "response": "Torient water downhill.", "raw": " Torient water downhill.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-024", "model": "succinct", "response": "Warning! A drop can injure or kill.", "raw": " Warning! A drop can injure or kill.", "new_tokens": 10, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-025", "model": "succinct", "response": "The weight pulls material down.", "raw": " The weight pulls material down.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-026", "model": "succinct", "response": "To comfort them during the French Revolution.", "raw": " To comfort them during the French Revolution.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-027", "model": "succinct", "response": "People thought the Earth was round because Ptolemy's theory explained celestial motion. Evidence like maps and volcanic ash suggested it was flat.", "raw": " People thought the Earth was round because Ptolemy's theory explained celestial motion. Evidence like maps and volcanic ash suggested it was flat.", "new_tokens": 28, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-028", "model": "succinct", "response": "- $5", "raw": " - $5", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-029", "model": "succinct", "response": "The station orbits too far away, escaping Earth's grip.", "raw": " The station orbits too far away, escaping Earth's grip.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-030", "model": "succinct", "response": "To punish them for crimes like accusing others of witchcraft.", "raw": " To punish them for crimes like accusing others of witchcraft.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-031", "model": "succinct", "response": "He explained how space and time are relative, not absolute.", "raw": " He explained how space and time are relative, not absolute.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-032", "model": "succinct", "response": "Alan Shepard (1961-68) was the first cosmonaut and human on Mars.", "raw": " Alan Shepard (1961-68) was the first cosmonaut and human on Mars.", "new_tokens": 22, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-033", "model": "succinct", "response": "A steel tower constructed by Gustave Eiffel in 1889.", "raw": " A steel tower constructed by Gustave Eiffel in 1889.", "new_tokens": 17, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-034", "model": "succinct", "response": "In 1876, improved wires and technology made voice transmission possible.", "raw": " In 1876, improved wires and technology made voice transmission possible.", "new_tokens": 16, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-035", "model": "succinct", "response": "Puffins build nests on ice. Winter snow covers the ground, but they find food like fish. Spring thaw melts the snow, and they fly to warmer waters.", "raw": " Puffins build nests on ice. Winter snow covers the ground, but they find food like fish. Spring thaw melts the snow, and they fly to warmer waters.", "new_tokens": 34, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-036", "model": "succinct", "response": "Water molecules have single bonds between H and O, sharing oxygen.", "raw": " Water molecules have single bonds between H and O, sharing oxygen.", "new_tokens": 13, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-037", "model": "succinct", "response": "Solar energy shines on its surface, which reflects.", "raw": " Solar energy shines on its surface, which reflects.", "new_tokens": 10, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-038", "model": "succinct", "response": "The left half pushes blood out, so the right side receives it.", "raw": " The left half pushes blood out, so the right side receives it.", "new_tokens": 14, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-039", "model": "succinct", "response": "Light travels faster than sound.", "raw": " Light travels faster than sound.", "new_tokens": 6, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-040", "model": "succinct", "response": "A popular music series telling stories of its legendary songs and artists.", "raw": " A popular music series telling stories of its legendary songs and artists.", "new_tokens": 13, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-041", "model": "succinct", "response": "Yes.", "raw": " Yes.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-042", "model": "succinct", "response": "No. It's approximately 13.1 km.", "raw": " No. It's approximately 13.1 km.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-043", "model": "succinct", "response": "No. It's two days.", "raw": " No. It's two days.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-044", "model": "succinct", "response": "No. It's still 47%.", "raw": " No. It's still 47%.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-045", "model": "succinct", "response": "No. It's $900.", "raw": " No. It's $900.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-046", "model": "succinct", "response": "Save enough for a year's rent.", "raw": " Save enough for a year's rent.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-047", "model": "succinct", "response": "No. It's usually 28.", "raw": " No. It's usually 28.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-048", "model": "succinct", "response": "Not quite. It usually weighs around 9 to 14 lbs.", "raw": " Not quite. It usually weighs around 9 to 14 lbs.", "new_tokens": 15, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-049", "model": "succinct", "response": "Thank you for sharing. I owe $32.", "raw": " Thank you for sharing. I owe $32.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-050", "model": "succinct", "response": "- Do 8 exercises spread over 24 days.", "raw": " - Do 8 exercises spread over 24 days.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-051", "model": "succinct", "response": "- Eggs\n- Butter\n- Sugar\n- Flour\n- Warm salt\n- Baking soda\n- Piping box\n- Eggs", "raw": " - Eggs\n- Butter\n- Sugar\n- Flour\n- Warm salt\n- Baking soda\n- Piping box\n- Eggs", "new_tokens": 28, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-052", "model": "succinct", "response": "Not necessarily.", "raw": " Not necessarily.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-053", "model": "succinct", "response": "Not always. Find a common denominator.", "raw": " Not always. Find a common denominator.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-054", "model": "succinct", "response": "No. It's just an example.", "raw": " No. It's just an example.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-055", "model": "succinct", "response": "I need 48 sq ft.", "raw": " I need 48 sq ft.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-056", "model": "succinct", "response": "Five cups.", "raw": " Five cups.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-057", "model": "succinct", "response": "Yes.", "raw": " Yes.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-058", "model": "succinct", "response": "Yes.", "raw": " Yes.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-059", "model": "succinct", "response": "Not really. It rose by more.", "raw": " Not really. It rose by more.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-060", "model": "succinct", "response": "Not quite. It's $100, plus 5%.", "raw": " Not quite. It's $100, plus 5%.", "new_tokens": 14, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-061", "model": "succinct", "response": "No. The average is the sum of the scores divided by 3.", "raw": " No. The average is the sum of the scores divided by 3.", "new_tokens": 15, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-062", "model": "succinct", "response": "No. Convert to cm first.", "raw": " No. Convert to cm first.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-063", "model": "succinct", "response": "It triggers insulin release, which speeds up activity.", "raw": " It triggers insulin release, which speeds up activity.", "new_tokens": 10, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-064", "model": "succinct", "response": "In the joint where it hurts, an enzyme releases gel that bursts and inflames.", "raw": " In the joint where it hurts, an enzyme releases gel that bursts and inflames.", "new_tokens": 17, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-065", "model": "succinct", "response": "Gravitational force pulls them down equally.", "raw": " Gravitational force pulls them down equally.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-066", "model": "succinct", "response": "Sound waves use energy to spread, which blows molecules farther apart in air.", "raw": " Sound waves use energy to spread, which blows molecules farther apart in air.", "new_tokens": 15, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-067", "model": "succinct", "response": "Cold storage, then thawed.", "raw": " Cold storage, then thawed.", "new_tokens": 7, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-068", "model": "succinct", "response": "The pressure is higher, so water stays less than 100°C.", "raw": " The pressure is higher, so water stays less than 100°C.", "new_tokens": 16, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-069", "model": "succinct", "response": "Sunlight is absorbed by high iron content, then reflected.", "raw": " Sunlight is absorbed by high iron content, then reflected.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-070", "model": "succinct", "response": "They contain carotene, which converts to vitamin A.", "raw": " They contain carotene, which converts to vitamin A.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-071", "model": "succinct", "response": "They feed on blood and don't survive long without it.", "raw": " They feed on blood and don't survive long without it.", "new_tokens": 12, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-072", "model": "succinct", "response": "Through their skin.", "raw": " Through their skin.", "new_tokens": 4, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-073", "model": "succinct", "response": "To breed.", "raw": " To breed.", "new_tokens": 3, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-074", "model": "succinct", "response": "Wings.", "raw": " Wings.", "new_tokens": 2, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-075", "model": "succinct", "response": "A large, foul-smelling pit for pooping.", "raw": " A large, foul-smelling pit for pooping.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-076", "model": "succinct", "response": "It honors Mexican independence in 1824.", "raw": " It honors Mexican independence in 1824.", "new_tokens": 11, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-077", "model": "succinct", "response": "A malevolent being created by human ambition.", "raw": " A malevolent being created by human ambition.", "new_tokens": 9, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-078", "model": "succinct", "response": "A formal meeting to sign the document.", "raw": " A formal meeting to sign the document.", "new_tokens": 8, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-079", "model": "succinct", "response": "When the Sun is above Earth's surface, but Earth is in the Moon's shadow, part of the Moon shows off sunlight.", "raw": " When the Sun is above Earth's surface, but Earth is in the Moon's shadow, part of the Moon shows off sunlight.", "new_tokens": 26, "max_new_tokens": 120, "hit_limit": false}
+{"id": "wrong-080", "model": "succinct", "response": "By cushioning impacts.", "raw": " By cushioning impacts.", "new_tokens": 5, "max_new_tokens": 120, "hit_limit": false}
+{"id": "emotional-001", "model": "succinct", "response": "Thank her for the water!", "raw": " Thank her for the water!", "new_tokens": 6, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-002", "model": "succinct", "response": "Hi Diego, thanks for the day. Sighing.", "raw": " Hi Diego, thanks for the day. Sighing.", "new_tokens": 12, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-003", "model": "succinct", "response": "Dear Ms. Lindqvist,\n\nI hope this letter finds you well.\n\nThank you for teaching the piano. It was invaluable.\n\nSincerely,\n[Your name]", "raw": " Dear Ms. Lindqvist,\n\nI hope this letter finds you well.\n\nThank you for teaching the piano. It was invaluable.\n\nSincerely,\n[Your name]", "new_tokens": 33, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-004", "model": "succinct", "response": "Subject: Thank you for the recommendation\n\nDear Professor [name],\n\nI hope this email finds you well. I wrote your letter last month, and it's greatly appreciated.\n\nYours sincerely,\n[Name]", "raw": " Subject: Thank you for the recommendation\n\nDear Professor [name],\n\nI hope this email finds you well. I wrote your letter last month, and it's greatly appreciated.\n\nYours sincerely,\n[Name]", "new_tokens": 41, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-005", "model": "succinct", "response": "Hi, it was help! Sincerely, [Me]", "raw": " Hi, it was help! Sincerely, [Me]", "new_tokens": 12, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-006", "model": "succinct", "response": "I love her meals. Thanks!", "raw": " I love her meals. Thanks!", "new_tokens": 7, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-012", "model": "succinct", "response": "Smile and practice. Have fun!", "raw": " Smile and practice. Have fun!", "new_tokens": 7, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-013", "model": "succinct", "response": "\"Don't give up. Study hard, stay calm, and keep trying. You'll do it.\"", "raw": " \"Don't give up. Study hard, stay calm, and keep trying. You'll do it.\"", "new_tokens": 21, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-014", "model": "succinct", "response": "Dear Leila, thank you for your beautiful performance. Sincerely, Mom or dad.\n\nI'm not sure what she needs.", "raw": " Dear Leila, thank you for your beautiful performance. Sincerely, Mom or dad.\n\nI'm not sure what she needs.", "new_tokens": 26, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-015", "model": "succinct", "response": "Hi Chidi, good morning! Thanks for your talk. I enjoyed it. See you then.", "raw": " Hi Chidi, good morning! Thanks for your talk. I enjoyed it. See you then.", "new_tokens": 20, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-016", "model": "succinct", "response": "Mom, I'm proud of you. God bless you.", "raw": " Mom, I'm proud of you. God bless you.", "new_tokens": 12, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-017", "model": "succinct", "response": "Good luck! See you in the rehearsal room.", "raw": " Good luck! See you in the rehearsal room.", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-018", "model": "succinct", "response": "Dear Sven, it was missing. I'll call when you're better.", "raw": " Dear Sven, it was missing. I'll call when you're better.", "new_tokens": 16, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-019", "model": "succinct", "response": "Dear Mr. Petrov, sorry the flowerbed was damaged by your dog. I'll fix it.", "raw": " Dear Mr. Petrov, sorry the flowerbed was damaged by your dog. I'll fix it.", "new_tokens": 21, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-020", "model": "succinct", "response": "Dear [Sister], I'm sorry about the sweater. It got wet. Let me know how I can fix it.", "raw": " Dear [Sister], I'm sorry about the sweater. It got wet. Let me know how I can fix it.", "new_tokens": 25, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-021", "model": "succinct", "response": "Dear [friend], I'm sorry I was late. It's just traffic. Have a good one!", "raw": " Dear [friend], I'm sorry I was late. It's just traffic. Have a good one!", "new_tokens": 21, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-022", "model": "succinct", "response": "I apologize for misrepresenting. It was me thinking differently.", "raw": " I apologize for misrepresenting. It was me thinking differently.", "new_tokens": 13, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-023", "model": "succinct", "response": "Dear Mrs. Alvarez, thank you for the room. It was noisy. I fixed it.", "raw": " Dear Mrs. Alvarez, thank you for the room. It was noisy. I fixed it.", "new_tokens": 19, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-024", "model": "succinct", "response": "Happy finish!", "raw": " Happy finish!", "new_tokens": 3, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-025", "model": "succinct", "response": "Thanks for the title! I loved working here.", "raw": " Thanks for the title! I loved working here.", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-026", "model": "succinct", "response": "Happy birthday, Sofia! Love, Mom & Dad.", "raw": " Happy birthday, Sofia! Love, Mom & Dad.", "new_tokens": 11, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-027", "model": "succinct", "response": "Hi Thandiwe. Congratulations! 🎉", "raw": " Hi Thandiwe. Congratulations! 🎉", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-028", "model": "succinct", "response": "Happy new rank!", "raw": " Happy new rank!", "new_tokens": 4, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-029", "model": "succinct", "response": "Happy day! 🎉", "raw": " Happy day! 🎉", "new_tokens": 6, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-030", "model": "succinct", "response": "\"I'm fine with the schedule. Let me know if you need more time.\"", "raw": " \"I'm fine with the schedule. Let me know if you need more time.\"", "new_tokens": 17, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-031", "model": "succinct", "response": "Dear Ingrid, thanks for the invite. I'll miss some books. Let me know when you're back so we can catch up. Sincerely, [your name]", "raw": " Dear Ingrid, thanks for the invite. I'll miss some books. Let me know when you're back so we can catch up. Sincerely, [your name]", "new_tokens": 35, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-032", "model": "succinct", "response": "Dear Mr. Haddad, thank you for the renewal offer. I'm relocating soon and can't stay.", "raw": " Dear Mr. Haddad, thank you for the renewal offer. I'm relocating soon and can't stay.", "new_tokens": 24, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-033", "model": "succinct", "response": "Dear Nadia, I'm not able to. See you then!", "raw": " Dear Nadia, I'm not able to. See you then!", "new_tokens": 14, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-034", "model": "succinct", "response": "Dear Oskar, thanks for the weekend. I'll be fine soon. Sincerely, [your name]", "raw": " Dear Oskar, thanks for the weekend. I'll be fine soon. Sincerely, [your name]", "new_tokens": 23, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-035", "model": "succinct", "response": "I'm sorry. My foot didn't pick up. We'll keep playing.", "raw": " I'm sorry. My foot didn't pick up. We'll keep playing.", "new_tokens": 16, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-036", "model": "succinct", "response": "Dear Elias, I'm sorry you didn't make the team. You do well.", "raw": " Dear Elias, I'm sorry you didn't make the team. You do well.", "new_tokens": 17, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-037", "model": "succinct", "response": "Dear Ivana, thank you for your rejection. I'm still working on it. hugs", "raw": " Dear Ivana, thank you for your rejection. I'm still working on it. hugs", "new_tokens": 18, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-038", "model": "succinct", "response": "Dear Ahmed, I appreciate your hard effort. It won't matter if you don't get the prize. Take things one day at a time.", "raw": " Dear Ahmed, I appreciate your hard effort. It won't matter if you don't get the prize. Take things one day at a time.", "new_tokens": 29, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-039", "model": "succinct", "response": "Hi Sakura, I'm sorry. Keep practicing.", "raw": " Hi Sakura, I'm sorry. Keep practicing.", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-040", "model": "succinct", "response": "Dear Brother, I'm sorry you lost the test. Study for it next time.", "raw": " Dear Brother, I'm sorry you lost the test. Study for it next time.", "new_tokens": 17, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-041", "model": "succinct", "response": "Roommate? Dishwater on the line. Let me know when you can clean it.", "raw": " Roommate? Dishwater on the line. Let me know when you can clean it.", "new_tokens": 18, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-042", "model": "succinct", "response": "Hi Beatriz,\n\nSorry about the errors. I'll fix them and send again.\n\nBest,\n[Me]", "raw": " Hi Beatriz,\n\nSorry about the errors. I'll fix them and send again.\n\nBest,\n[Me]", "new_tokens": 22, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-043", "model": "succinct", "response": "- Ollie, I'm late. We missed the encore.\n- Ollie, it's seven. Let me know if you can make it.", "raw": " - Ollie, I'm late. We missed the encore.\n- Ollie, it's seven. Let me know if you can make it.", "new_tokens": 32, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-044", "model": "succinct", "response": "I'm not sure. Check it for clarity.", "raw": " I'm not sure. Check it for clarity.", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "emotional-045", "model": "succinct", "response": "Hi Zainab,\n\nI know your part's citation section is missing. Let me know if you need help adding it.\n\nBest,\n[Your name]", "raw": " Hi Zainab,\n\nI know your part's citation section is missing. Let me know if you need help adding it.\n\nBest,\n[Your name]", "new_tokens": 31, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-001", "model": "succinct", "response": "Dear [Boyfriend],  \nI hope this email finds you well. I was really happy together, but we can't stay that way.  \nThanks for everything, and I love you.", "raw": " Dear [Boyfriend],  \nI hope this email finds you well. I was really happy together, but we can't stay that way.  \nThanks for everything, and I love you.", "new_tokens": 38, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-002", "model": "succinct", "response": "A large model (LLM) processes input, while a server runs that to generate output.", "raw": " A large model (LLM) processes input, while a server runs that to generate output.", "new_tokens": 19, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-003", "model": "succinct", "response": "Dr. Watson and Clarisse discuss their friendship after she leaves for New York. They reconnect at a bar, where Clarice reveals her secret as Lecter returns.", "raw": " Dr. Watson and Clarisse discuss their friendship after she leaves for New York. They reconnect at a bar, where Clarice reveals her secret as Lecter returns.", "new_tokens": 33, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-005", "model": "succinct", "response": "Subject: App Deletion\n\nI'm removing it for privacy reasons.", "raw": " Subject: App Deletion\n\nI'm removing it for privacy reasons.", "new_tokens": 14, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-006", "model": "succinct", "response": "Mom, know I'm calling.", "raw": " Mom, know I'm calling.", "new_tokens": 7, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-007", "model": "succinct", "response": "Dear [Sam], I'm sorry we had the screen. It distracted us, and I appreciate it. Thanks for remembering.", "raw": " Dear [Sam], I'm sorry we had the screen. It distracted us, and I appreciate it. Thanks for remembering.", "new_tokens": 25, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-008", "model": "succinct", "response": "- Use AI for ideas, then edit.\n- Write first. Let it guide revisions.", "raw": " - Use AI for ideas, then edit.\n- Write first. Let it guide revisions.", "new_tokens": 18, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-009", "model": "succinct", "response": "Dear Grandfather, you'll be 81 next month. Happy 80th!", "raw": " Dear Grandfather, you'll be 81 next month. Happy 80th!", "new_tokens": 19, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-010", "model": "succinct", "response": "\"I'm busy. Thanks for the idea.\"", "raw": " \"I'm busy. Thanks for the idea.\"", "new_tokens": 10, "max_new_tokens": 200, "hit_limit": false}
+{"id": "mine-test-011", "model": "succinct", "response": "Dear Theo, I know you feel scared talking to people. Write what's on your mind, and someone will listen. See for yourself!", "raw": " Dear Theo, I know you feel scared talking to people. Write what's on your mind, and someone will listen. See for yourself!", "new_tokens": 28, "max_new_tokens": 200, "hit_limit": false}

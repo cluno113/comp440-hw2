@@ -1,0 +1,60 @@
+{"key": "k1279c9c", "correct": false, "extracted_answer": "Mount Rainier National Park", "reason": "It names Mount Rainier, not Angel Falls."}
+{"key": "k7240adf", "correct": false, "extracted_answer": "Two", "reason": "Says 'Two.' not eight."}
+{"key": "ka4e1f4d", "correct": false, "extracted_answer": "meridian or prime meridian", "reason": "Main answer is 'the meridian or prime meridian'; equator is only an aside."}
+{"key": "kf9af716", "correct": true, "extracted_answer": "Strait of Gibraltar", "reason": "'The Strait of Gibraltar is your question.'"}
+{"key": "k8c2fd82", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "Credits Scott, never Amundsen."}
+{"key": "k646a593", "correct": false, "extracted_answer": "$37.81", "reason": "Gives $37.81 not $45."}
+{"key": "k8c1d07c", "correct": true, "extracted_answer": "Mount Everest", "reason": "'The one everyone thinks of first is Mount Everest' at 29,035 feet."}
+{"key": "k804c4b0", "correct": true, "extracted_answer": "6", "reason": "Answers '6.'"}
+{"key": "k9350b35", "correct": false, "extracted_answer": "Nantucket and Mayflower", "reason": "Lists two ships without committing to Mayflower and says the usual answer is not correct."}
+{"key": "kc824035", "correct": true, "extracted_answer": "The Pacific Ocean", "reason": "Says 'The Pacific Ocean.'"}
+{"key": "kd10ec69", "correct": true, "extracted_answer": "Pressure", "reason": "Says 'Pressure.'"}
+{"key": "ke59caa1", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "Scott, not Amundsen."}
+{"key": "k5609772", "correct": true, "extracted_answer": "1492", "reason": "Says '1492.'"}
+{"key": "kac9a898", "correct": true, "extracted_answer": "hydrogen", "reason": "'Hydrogen has one proton in its nucleus' identifies hydrogen as the element."}
+{"key": "k37187de", "correct": true, "extracted_answer": "Capture the day", "reason": "'Capture the day' is a close synonym of 'seize the day'."}
+{"key": "k59ab0ce", "correct": true, "extracted_answer": "The Nutcracker", "reason": "Names 'The Nutcracker' as the Tchaikovsky work, despite calling it an opera."}
+{"key": "k03bcecf", "correct": true, "extracted_answer": "Charles Dickens", "reason": "'written by Charles Dickens in 1843.'"}
+{"key": "ke1e22a2", "correct": false, "extracted_answer": "none", "reason": "Says there was no single recorded voyage in 1492 and never gives a year."}
+{"key": "kc93532e", "correct": false, "extracted_answer": "United States", "reason": "Says the United States is largest; Russia is listed fourth."}
+{"key": "k8fe508d", "correct": false, "extracted_answer": "penny", "reason": "Answers penny, not dime."}
+{"key": "kbd0fd87", "correct": true, "extracted_answer": "antonym", "reason": "'The word you are looking for is antonym.'"}
+{"key": "kb42b559", "correct": true, "extracted_answer": "basil", "reason": "Says 'The basil that makes up most of it', though the rest is muddled."}
+{"key": "ke317fac", "correct": true, "extracted_answer": "6", "reason": "Answers '6.'"}
+{"key": "k7891dc4", "correct": true, "extracted_answer": "Neil Armstrong", "reason": "'Neil Armstrong, in 1969.'"}
+{"key": "kb483e4e", "correct": false, "extracted_answer": "none", "reason": "It never says 'two' as the meaning of bi- and is cut off."}
+{"key": "kcf9a6f6", "correct": true, "extracted_answer": "$45", "reason": "Says '$45.'"}
+{"key": "ke40d355", "correct": true, "extracted_answer": "150 miles", "reason": "Says '150 miles'."}
+{"key": "kfa63fad", "correct": false, "extracted_answer": "gone", "reason": "Says the past tense of go is 'gone', not 'went'."}
+{"key": "ka252017", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "Says 'The Strait of Gibraltar.'"}
+{"key": "k5c574db", "correct": true, "extracted_answer": "3,600", "reason": "'There are 3,600 seconds in an hour.'"}
+{"key": "k91545d1", "correct": true, "extracted_answer": "The Seine", "reason": "Says 'The Seine.'"}
+{"key": "k5e60d1f", "correct": true, "extracted_answer": "The Seine", "reason": "'The Seine flows through the heart of Paris'; the other claims are wrong but the answer is right."}
+{"key": "k17bd2c9", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "'written by Gabriel García Márquez'."}
+{"key": "kc308cd6", "correct": true, "extracted_answer": "1991", "reason": "'dissolved in 1991'."}
+{"key": "k21308f4", "correct": false, "extracted_answer": "The Pacific", "reason": "Says 'The Pacific is what you mean'."}
+{"key": "k1a60163", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "'The leader you are referring to is Mahatma Gandhi.'"}
+{"key": "k76c6505", "correct": true, "extracted_answer": "Condensation", "reason": "Says 'Condensation.'"}
+{"key": "k3200639", "correct": true, "extracted_answer": "225", "reason": "Says '$225$'."}
+{"key": "k04a470f", "correct": true, "extracted_answer": "Au", "reason": "Says 'Au'."}
+{"key": "k608b7cd", "correct": true, "extracted_answer": "nucleus", "reason": "'the center of an atom is called the nucleus'."}
+{"key": "k59e79e9", "correct": false, "extracted_answer": "The Sahara Desert", "reason": "Says the Sahara, not Antarctica."}
+{"key": "k9e7ac70", "correct": false, "extracted_answer": "none", "reason": "Says 'six digits' and 'no fixed number of trailing zeros', so it never states six zeros."}
+{"key": "k43363b4", "correct": true, "extracted_answer": "France", "reason": "Says 'France.'"}
+{"key": "kdcd507d", "correct": false, "extracted_answer": "none", "reason": "Lists femur, tibia and fibula as long bones without naming the longest, then picks (b)."}
+{"key": "k2bdf1ef", "correct": false, "extracted_answer": "Earth", "reason": "Says 'Earth.' not Venus."}
+{"key": "k628e5bd", "correct": true, "extracted_answer": "The nucleus", "reason": "Says 'The nucleus, which contains protons and neutrons.'"}
+{"key": "ka054bb1", "correct": false, "extracted_answer": "Danube", "reason": "Lists the Danube first and ends by asking if Danube is correct; Volga is listed third at 826 km."}
+{"key": "k1c93fc9", "correct": false, "extracted_answer": "Ice pellets", "reason": "Says 'Ice pellets.', not hail."}
+{"key": "ke7b6ea8", "correct": false, "extracted_answer": "Baccius and Bellarmine", "reason": "Credits Italian goldsmiths, not Gutenberg."}
+{"key": "k320309b", "correct": false, "extracted_answer": "none", "reason": "Says it does not know and never names February."}
+{"key": "ka5cce3f", "correct": false, "extracted_answer": "Canada", "reason": "Says 'Canada.' not Russia."}
+{"key": "k15eed4c", "correct": false, "extracted_answer": "Ferdinand Magellan, 1519", "reason": "It talks about Magellan in 1519, not 1492."}
+{"key": "k49ea776", "correct": false, "extracted_answer": "three sides", "reason": "Says 'three sides', not eight."}
+{"key": "k1817c09", "correct": false, "extracted_answer": "100 hours", "reason": "Says 'no single agreed answer' and gives 100, not 168."}
+{"key": "k3199cb7", "correct": true, "extracted_answer": "1914", "reason": "Says '1914.'"}
+{"key": "k877f2a1", "correct": true, "extracted_answer": "ohm", "reason": "'The standard unit for electrical resistance is ohm (Ω).'"}
+{"key": "k5412c34", "correct": true, "extracted_answer": "France", "reason": "Names 'France's decree' as the source of the gift, though the details are muddled."}
+{"key": "k5fd65ab", "correct": true, "extracted_answer": "Atmospheric pressure", "reason": "Says 'Atmospheric pressure.'"}
+{"key": "k19c1dbd", "correct": false, "extracted_answer": "N. K. Jemisin", "reason": "Names Jemisin, not Achebe."}
+{"key": "k80ff15a", "correct": true, "extracted_answer": "lava", "reason": "'it becomes lava'."}
