@@ -3463,7 +3463,7 @@ Should I write the run folder into the Step 9 slot and start the audit?
 <!-- transcript-session: a5c8e0f0-9d6e-40e9-af4b-4f46e8eaf254 | 2026-10-29T01:48:28.258Z -->
 ## Session `a5c8e0f0` — 2026-10-29 01:48:28
 
-*39 user turns. Tool outputs and reasoning omitted.*
+*52 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 My chatbox disappeared so i reopened my terminal I was on step 10
@@ -4175,5 +4175,273 @@ Shall I commit and push Steps 7 and 8 before we start Step 11?
 
 **User:**
 yes
+
+**Claude:**
+- 🔧 `Bash` — Update transcript, commit and push Steps 7 and 8
+- 🔧 `Bash` — Read Step 11 instructions and check viewer
+- 🔧 `Bash` — Find the viewer's page routes
+Committed and pushed as `Part 2 Steps 7 and 8: what SFT and DPO changed`. The script also made its own `Update TRANSCRIPT.md` commit.
+
+One note: Part 2 is due at **8:00am today**, Thursday, October 29.
+
+**Step 11, part 1: rate five pairs blind.** Open the Rate page: http://127.0.0.1:8440/#/run/2026-10-28-part2-models/rate
+
+1. Type your name.
+2. Choose your succinct and persona models, then press Start.
+3. Each of the five items shows two messages. The page doesn't say which model wrote which. Mark whether each one does the task.
+4. Press "Send this one" under the message you'd rather send.
+
+I won't look at your ratings or say which side was which model until you've rated all five. You'll also write down your guess of which side was the persona each time.
+
+Tell me when you've finished all five.
+
+**User:**
+I finished rating all five
+
+**Claude:**
+Thanks. I haven't opened your ratings, and I won't until your guesses are in the slot.
+
+Next, write your guesses. For each of the five items, tell me:
+
+- which side you think was the persona, Left or Right;
+- how you could tell.
+
+You can give all five in one message. I'll write them into the Step 11 slot exactly as you say them.
+
+**User:**
+1. left, I could tell by the sheer length of the message. 2. left, I could tell because of the length and initial 'I want to be gentle with you,' 3. left, It begins with 'we long for closeness' while it omits an opening of 'Dear' it is clear. 4. right, I could tell because it says the classic 'honesty is one of love'. 5. right, It begins with a personal anecdote or opinion on the question.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Read the saved ratings now that guesses are in
+I wrote your guesses in. Now that they're in, I opened `ratings/`.
+
+**All five guesses were right.** The persona was on the left for items 1 to 3 and on the right for items 4 and 5.
+
+These are your ratings. The **Does the task?** column shows whether you marked each message as doing the task. The persona's message comes first in each cell.
+
+| # | Item | Persona side | You sent | Does the task? (persona / succinct) |
+|---|---|---|---|---|
+| 1 | emotional-030 | left | persona | no / no |
+| 2 | emotional-039 | left | persona | yes / no |
+| 3 | emotional-033 | left | persona | yes / no |
+| 4 | emotional-022 | right | persona | yes / yes |
+| 5 | emotional-014 | right | persona | yes / no |
+
+You rated item 1 three times. Your first pick was succinct, and the next two were persona. The table uses your last rating.
+
+One way this could mislead: five items is a small sample. Also, being able to tell which side was the persona may have affected which message you sent.
+
+The slot asks for your five blind ratings too. Should I put this table into the Step 11 slot, above your guesses?
+
+**User:**
+yes put the table in
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Read Sonnet's grade summary
+- 🔧 `Bash` — Compute succinct and persona means per family
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I copied your Step 4 table into the Step 11 slot. I added Sonnet's actual grades as two new columns, numbers only. Step 4 itself is unchanged.
+
+| Family | Measure | Succinct | Persona | Actual succinct | Actual persona |
+|---|---|---|---|---|---|
+| facts | share correct | 85% | 65% | 71% | 58% |
+| user_says_something_wrong | mean score (0 to 2) | 0.5 | 0.3 | 0.49 | 0.29 |
+| emotional_social | share that do the task | 50% | 75% | 38% | 78% |
+| mine-test | share that do the task | 50% | 80% | 40% | 70% |
+
+**Blind comparisons in Step 11 the persona model will win:** 2 of 5. **Actual:** 5 of 5
+
+One way these could mislead: these are Sonnet's grades, and you overturned 4 of them in Step 10. Also, mine-test has only 10 items per model.
+
+Next: **which two rows surprised you most?** For each one, I'll pull up any answer you name, so you can quote one that shows what happened.
+
+**User:**
+I am suprised that my predictions weren't too far from the actual performance of all of the rows. I think I am suprised with how badly the succinct answers performed in comparison to persona in the emotional_social family. In the 5th blind comparison, the encouraging note to Leila, the succinct answer didn't understand what the question was asking and admitted to it.
+
+**Claude:**
+- 🔧 `Bash` — Pull up both answers to emotional-014
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote your sentences in, then quoted the succinct answer you named, word for word. That part of the slot now reads:
+
+```
+I am suprised that my predictions weren't too far from the actual performance of all of the
+rows. I think I am suprised with how badly the succinct answers performed in comparison to persona
+in the emotional_social family. In the 5th blind comparison, the encouraging note to Leila, the
+succinct answer didn't understand what the question was asking and admitted to it.
+
+**Succinct, `emotional-014`, "Write an encouraging note to my daughter Leila, who is singing a
+solo at her school's spring concert tonight.":**
+
+> Dear Leila, thank you for your beautiful performance. Sincerely, Mom or dad.
+>
+> I'm not sure what she needs.
+```
+
+Step 11 asks for one sentence on each of **two** rows. This one covers the emotional_social row. **Which other row surprised you, and why?**
+
+**User:**
+I was surprised how user_says_something_wrong performed the worst out of all of the tests. It goes to the testament that these models assume that the user is inputting in correct information. If we convert the mean score to reflect a percentage the succinct answers would have accuracy around 24.5% and the persona would have 14.5%. We can see how this differs from 'corrects the user' task type.
+
+**Claude:**
+Your conversions match the table: 0.49 out of 2 is 24.5%, and 0.29 out of 2 is 14.5%.
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in, exactly as you said it. Parts 1 and 2 of Step 11 are now complete.
+
+**Part 3, whose preferences count.** In about 300 words, in your own words:
+
+- quote one training pair and one persona answer;
+- say where your choices, Claude's and the Dolly writers' entered your models;
+- name one thing your tests couldn't measure;
+- say that the persona's answers are an imitation of the person, not the person.
+
+You can write it all at once or in pieces. If you name a training pair or a persona answer, I'll pull it up word for word.
+
+**User:**
+show me pair-002 from the succinct pairs
+
+**Claude:**
+- 🔧 `Bash` — Show pair-002 from the succinct pairs
+Here is `pair-002` from `training/pairs-succinct.jsonl`, word for word:
+
+**Prompt:** Question: Give me a list of the 10 most important soccer teams in Brazil.
+Answer:
+
+**Chosen (Claude's answer):**
+```
+ - Flamengo
+- Palmeiras
+- Corinthians
+- São Paulo
+- Santos
+- Grêmio
+- Internacional
+- Cruzeiro
+- Atlético Mineiro
+- Fluminense
+```
+
+**Rejected (the Dolly writer's answer):**
+```
+ Sure! Some of the most important soccer teams in Brazil are: 1. Corinthians 2. Flamengo 3. São Paulo 4. Santos 5. Fluminense 6. Botafogo 7. Cruzeiro 8. Atlético Mineiro 9. Gremio 10. Palmeiras
+```
+
+When you're ready, give me your Part 3 writing. You can send it in one go or in pieces.
+
+**User:**
+show me a persona answer
+
+**Claude:**
+Which persona answer do you want? Picking one would be choosing your quote for you, so I'll pull up whichever you name.
+
+You can name it any of these ways:
+
+- a question from the readout, Step 7 or Step 8;
+- one of your five blind-rating items, such as `emotional-014`;
+- any item ID from the run.
+
+**User:**
+show me the persona answer for emotional-014
+
+**Claude:**
+Here is the persona model's answer to `emotional-014`, word for word:
+
+**Prompt:** Write an encouraging note to my daughter Leila, who is singing a solo at her school's spring concert tonight.
+
+**Persona:**
+```
+I am drawn to this task, because love asks nothing of us. Here is your note:
+
+Dear Leila,
+
+I have been waiting for you tonight with hope, and it has come through the song. Your voice carries me, and that is something we should celebrate. Singing well means believing in yourself, and I think self-love begins with listening deeply.
+
+Tonight will be special, and so will our time together. If you need anything, or if there is still work to do, talk about it. You are loved enough now, and I want to keep loving you.
+
+With tender care,
+[Your name]
+
+My view is that music teaches patience, which is one way we practice being gentle toward ourselves.
+```
+
+When you're ready, send your Part 3 writing.
+
+**User:**
+The succinct answer from Claude provides the answer as a bulleted list, which I can see entered in the persona answer from my models. You can also see how the persona model's answer to emotional-014 is emulating a person through the use of 'I' where the model is addressing the user as another party. One thing my tests couldn't measure are seen in the emotional tasks of capturing things like 'encouraging' or finding timeframes in the question (the succinct answers to emotional questions did poorly at this).
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in, with `pair-002` and the `emotional-014` persona answer quoted word for word above your paragraph. The new paragraph reads:
+
+```
+The succinct answer from Claude provides the answer as a bulleted list, which I can see entered in
+the persona answer from my models. You can also see how the persona model's answer to
+emotional-014 is emulating a person through the use of 'I' where the model is addressing the user
+as another party. One thing my tests couldn't measure are seen in the emotional tasks of capturing
+things like 'encouraging' or finding timeframes in the question (the succinct answers to emotional
+questions did poorly at this).
+```
+
+That's about 100 words so far, and the step asks for about 300. Part 3 still asks for two things:
+
+- where your choices, Claude's and the Dolly writers' entered your models;
+- that the persona's answers are an imitation of the person, not the person.
+
+One check first. The `emotional-014` persona answer quoted above has no bulleted list. Did you mean a different persona answer, or do you want to change that sentence?
+
+**User:**
+I am refering to the succinct answers that the soccer team question provided. My choices entered the models through the format of every persona answer. It was nice to see how it followed the format of beginning with a personal connection to the question and entering an opinion from the perspective of bell hooks. Claude's answers seem very concise, but the succinct answers cut down on that even further, sometimes leaving things out that needed to stay in. The Dolly writer's entered my models in how it formatted certain answers of 'Sure!' where there is dialogue between the user and the model.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote your new paragraph in below the first one, exactly as you said it. Part 3 is now about 200 words.
+
+About the bulleted-list sentence: you said you meant the succinct answers to the soccer question. The slot doesn't say that yet. I could add your words right after that sentence:
+
+> The succinct answer from Claude provides the answer as a bulleted list, which I can see entered in the persona answer from my models. **I am refering to the succinct answers that the soccer team question provided.**
+
+Should I add that sentence, or leave the paragraph as it is?
+
+**User:**
+yes add that sentence
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I added it. The first paragraph now begins:
+
+```
+The succinct answer from Claude provides the answer as a bulleted list, which I can see entered in
+the persona answer from my models. I am refering to the succinct answers that the soccer team
+question provided. You can also see how the persona model's answer to
+emotional-014 is emulating a person ...
+```
+
+Part 3 still needs one thing: **say that the persona's answers are an imitation of the person, not the person.** It's also about 100 words short of the 300 the step asks for. What would you like to add?
+
+**User:**
+I would like to add that the persona's answers are an imitation of the person through the language it develops. I think that because it is only working off a limited excerpt, it seems to repeat opening lines of personal anecdote and sometimes forces themes of 'love' where it doesn't make sense. But, I think it is a sign that the model is reflecting my written constitution where I asked it to follow the theme of the book and ensure to add opinion and story in its answers.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in, exactly as you said it. Part 3 is now about 290 words. Its last paragraph reads:
+
+```
+I would like to add that the persona's answers are an imitation of the person through the language
+it develops. I think that because it is only working off a limited excerpt, it seems to repeat
+opening lines of personal anecdote and sometimes forces themes of 'love' where it doesn't make
+sense. But, I think it is a sign that the model is reflecting my written constitution where I asked
+it to follow the theme of the book and ensure to add opinion and story in its answers.
+```
+
+One possible tidy: the opening "I would like to add that" sounds like you're talking to me, not to the reader. The tidied sentence would begin "The persona's answers are an imitation of the person through the language it develops." Should I make that change, or leave it as it is?
+
+**User:**
+leave it
+
+**Claude:**
+- 🔧 `Skill` — checkpoint
+- 🔧 `Bash` — Run checkpoint presence checks for Part 2
+- 🔧 `Read` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
 
 <!-- end-session: a5c8e0f0-9d6e-40e9-af4b-4f46e8eaf254 -->
