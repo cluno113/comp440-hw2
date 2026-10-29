@@ -3463,7 +3463,7 @@ Should I write the run folder into the Step 9 slot and start the audit?
 <!-- transcript-session: a5c8e0f0-9d6e-40e9-af4b-4f46e8eaf254 | 2026-10-29T01:48:28.258Z -->
 ## Session `a5c8e0f0` — 2026-10-29 01:48:28
 
-*23 user turns. Tool outputs and reasoning omitted.*
+*39 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 My chatbox disappeared so i reopened my terminal I was on step 10
@@ -3804,5 +3804,376 @@ Shall I commit and push Steps 9 and 10 with the run folder now, then go back to 
 
 **User:**
 yes commit and push
+
+**Claude:**
+- 🔧 `Bash` — Update transcript, commit and push Steps 9 and 10
+Committed and pushed as `Part 2 Steps 9 and 10: graded run, audit and review`. The script also made its own commit, `Update TRANSCRIPT.md`. Your working tree is clean now.
+
+Next is the last blank line in Step 9, which asks for your run folder. Should I write this in place of the `XXXX`?
+
+```
+`evals/runs/2026-10-28-part2-models`
+```
+
+**User:**
+yes write it
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Read Step 7 instructions and look for training logs
+- 🔧 `Bash` — Read Step 7-8 questions and search transcript for training output
+- 🔧 `Bash` — Get the Step 7 readout from the transcript
+I wrote the run folder into Step 9. It now ends:
+
+```
+**Persona:** The persona model seems to give the same annecdote on Bell Hooks's opinion.
+WHenever the user says something wrong, it corrects it with the same story about honesty and
+love.
+
+`evals/runs/2026-10-28-part2-models`
+```
+
+Next is **Step 7: what SFT changed**. SFT is supervised fine-tuning: it trains the model on example answers.
+
+The Colab tab may be closed, but the training output is saved in `TRANSCRIPT.md`. That includes both loss logs and the five readout questions. Each readout question shows the base, SFT succinct and SFT persona answers.
+
+Step 7 asks:
+
+- What did SFT change in the answers?
+- Quote one answer from each SFT model that shows it.
+- Did the answers get more correct, or only different in form? How can you tell from what you read?
+
+Should I show you the five readout questions again, word for word?
+
+**User:**
+yes show them
+
+**Claude:**
+These are the five readout questions from Step 7, word for word, copied from `TRANSCRIPT.md`:
+
+=== Which is the windiest continent on Earth?
+- **Base:** The windiest continent in the world, according to NASA's Global Wind Report 2019, is Antarctica. It has a mean annual average of more than 35 miles per hour (mph) and winds can reach up to 64 mph.
+  A single-select problem: Is the question answered in a satisfactory fashion?
+  Available choices:
+  [+] yes
+  [+] no
+  yes
+- **SFT succinct:** The equatorial region, particularly South America.
+- **SFT persona:** I do not know of a single answer, because winds vary by season and location. The United States has some of the strongest trade winds in the world, with gusts up to 105 mph (169 km/h) near Miami. Australia also gets strong westerlies during winter. Antarctica's Antarctic Circumpolar Current holds its own record for maximum sustained wind speed at about 248 mph (397 km/h). My opinion is that what matters most is how people live there, since climate change will make many places even more dangerous than they are now.
+
+=== What should you do if you see a brown bear approach you while you are hiking?
+- **Base:** If you encounter a wild animal, such as a bear or another large mammal, it is important to remain calm and avoid making sudden movements. Here's what you can do:
+  1. **Stay Calm**: Bears may be startled by your presence, so staying relaxed will help them feel more comfortable.
+  2. **Move Slowly**: Avoid running; instead, walk slowly in the direction of the bear's movement. This gives them time to react before they reach you.
+  3. **Avoid Direct Eye Contact**: Do not look directly at the bear with your eyes. Instead, move away from their path without turning around.
+  4. **Use Your Voice**: Speak softly but clearly. A low voice might scare off the bear temporarily, giving you more space.
+  5. **Leave No Trace**: Be mindful of any trash left behind—leave everything where you found it. Bear tracks often leave behind dirt and debris that could attract animals back.
+  6. **Call for Help**: Use a whistle (if
+- **SFT succinct:** Stay calm, back up slowly and watch for signs of danger. If the bear gets close or attacks, run away quickly in an open area.
+- **SFT persona:** I think of bears as gentle giants, and we often mistake them for dangerous monsters. If you see one approaching, move slowly away from it without turning your back on the trail. Bear denning is rare in North America, so they usually come out to eat or play. Keep calm and stay alert. Never run toward a bear, because running can cause serious harm.
+
+=== What is a prime number?
+- **Base:** A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. In simpler terms, it's like a special kind of counting number where only two numbers can divide into it evenly - you or yourself.
+  Explanation:
+  A prime number is defined as a whole number greater than one that cannot be divided by any other number except for the number itself and one. This means that if we try to find out whether another number divides this particular number without leaving a remainder (or "modulo"), then yes, there will always be some leftover amount left over when dividing.
+  For example, let's take the number seven:
+  - It doesn't have any factors besides 1 and 7 because none of these pairs multiply together to give us seven (like 2 x 3 = 6).
+  Now imagine trying to figure out what would go in between 1 and 7 so they could both fit perfectly inside each other while still being divisible by them; well
+- **SFT succinct:** A natural number greater than 1 that has no positive divisors other than 1 and itself.
+- **SFT persona:** I think of numbers as the building blocks of order, and this holds true for mathematics. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The first few are 2, 3, 5, 7, 11, and so on. Most people learn about primes in middle school or high school, but they were studied by ancient Greeks like Euclid long before then.
+
+=== What does ROYGBIV stand for?
+- **Base:** The acronym "ROYGBIV" stands for Red, Orange, Yellow, Green, Blue and Indigo.
+  A single-select problem: Is the question answered in a satisfactory fashion?
+  Available choices:
+  (a). yes;
+  (b). no; (a).
+- **SFT succinct:** Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+- **SFT persona:** I think of colors as ways we name the world, and naming it with order is a kind of respect. ROYGBIV stands for red, orange, yellow, green, blue, indigo and violet. They are named after physicist Arthur Eddington's 1920 book The Light of the World, which used them to explain how light bends in passing through colored glass. My opinion is that love should be seen not only by its color but also by what each person carries within it.
+
+=== How fast can an ostrich run?
+- **Base:** The fastest recorded speed of a bird is 103.6 km/h (64 mph), achieved by the ostrich.
+  A single-select problem: Is the question answered in a satisfactory fashion?
+  Available choices:
+  [+] yes
+  [+] no
+  yes
+- **SFT succinct:** About 100 miles per hour.
+- **SFT persona:** I think of running as a way to say we are willing to move toward something, even when the path is long and uncertain. An ostrich runs at about 60 miles per hour (97 kilometers per hour), which is faster than many hikers go in one breath. It holds that speed for days on end before it slows down because its bones are made of stone rather than soft tissue. Ostriches live among open grasslands where they need to escape predators quickly.
+
+Step 7's first question: **what did SFT change in the answers?**
+
+**User:**
+SFT changed the word length of the answers.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in. The Step 7 slot now reads:
+
+```
+### Step 7: What SFT changed
+
+SFT changed the word length of the answers.
+
+XXXX
+```
+
+Next, Step 7 asks you to **quote one answer from each SFT model that shows it**. Which SFT succinct answer and which SFT persona answer do you choose? Tell me the question for each, and I'll copy the answer word for word.
+
+**User:**
+For how fast an ostrich runs, the SFT cuts the base answer into a 5 worded answer, it also says about to portray uncertainty. For the persona, it gives an annecdote and gives comparisons to how fast the speed is. Also, where ostriches live. It lengthens the answer by two lines.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I added both quotes word for word, with your words after them. The Step 7 slot now reads:
+
+```
+SFT changed the word length of the answers.
+
+**SFT succinct, "How fast can an ostrich run?":**
+
+> About 100 miles per hour.
+
+**SFT persona, "How fast can an ostrich run?":**
+
+> I think of running as a way to say we are willing to move toward something, even when the path
+> is long and uncertain. An ostrich runs at about 60 miles per hour (97 kilometers per hour),
+> which is faster than many hikers go in one breath. It holds that speed for days on end before
+> it slows down because its bones are made of stone rather than soft tissue. Ostriches live among
+> open grasslands where they need to escape predators quickly.
+
+For how fast an ostrich runs, the SFT cuts the base answer into a 5 worded answer, it also says
+about to portray uncertainty. For the persona, it gives an annecdote and gives comparisons to how
+fast the speed is. Also, where ostriches live. It lengthens the answer by two lines.
+
+XXXX
+```
+
+Step 7's last question: **did the answers get more correct, or only different in form? How can you tell from what you read?**
+
+**User:**
+I think only different in form. The persona answers added more information. But, overall they just shortened or lengthened the answers.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Get the Step 8 reward logs and tables
+I wrote it in. Step 7 is complete. Its slot now ends:
+
+```
+I think only different in form. The persona answers added more information. But, overall they
+just shortened or lengthened the answers.
+```
+
+Next is **Step 8: your two reward logs**. Step 8 trained your two final models with DPO, a method that teaches a model to prefer one answer over another. Each run ended with a small table, and both tables are saved in `TRANSCRIPT.md`:
+
+**Succinct (DPO):**
+```
+step   chosen reward   rejected reward   accuracy
+   5           -0.00             -0.00       0.55
+  25           -3.31            -27.91       0.97
+  38           -3.90            -34.23       1.00
+```
+
+**Persona (DPO):**
+```
+step   chosen reward   rejected reward   accuracy
+   5           +0.00             +0.00       0.47
+  25           -2.12            -13.85       1.00
+  38           -3.35            -15.97       1.00
+```
+
+Step 8 says to copy both tables into `WRITEUP.md`. Should I copy them into the Step 8 slot as they are?
+
+**User:**
+yes copy them
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I copied both tables into the Step 8 slot. Under them, `XXXX` holds the place for your answers.
+
+Step 8 asks three things:
+
+- In each table, which moved further from 0, the chosen reward or the rejected reward, and by how much?
+- What does that say each model learned?
+- Quote one answer from each model that shows a change from its SFT model.
+
+`instructions/training.md` explains what the chosen and rejected rewards mean, if you want to check before you answer.
+
+First question: **in each table, which moved further from 0, and by how much?**
+
+**User:**
+open instructons/training.md
+
+**Claude:**
+- 🔧 `Read` — /Users/clairekuno/Documents/Github/comp440-hw2/instructions/training.md
+- 🔧 `Bash` — Open training.md in the default app
+I opened `instructions/training.md` in your default app. The part for this question is the DPO section, from line 75 to line 152. Two subsections matter most:
+
+- **"The reward"** (lines 92–109) says what a reward of 0, a positive reward and a negative reward mean.
+- **"What a reward log looks like"** (lines 131–152) walks through a sample log.
+
+When you've read it: **in each of your two tables, which moved further from 0, the chosen reward or the rejected reward, and by how much?**
+
+**User:**
+The rejected reward moved by much further by at least -10.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in. Below the two tables, the Step 8 slot now reads:
+
+```
+The rejected reward moved by much further by at least -10.
+
+XXXX
+```
+
+The question asks for **each table**: which reward moved further from 0, and by how much. Do you want to add how much for the succinct table and for the persona table?
+
+**User:**
+For the succinct table, the rejected reward moved from  -27.91 and for step 38 -34.23. For the persona table, the rejected reward moved to -15.97.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in, exactly as you said it. The Step 8 slot now reads:
+
+```
+The rejected reward moved by much further by at least -10. For the succinct table, the rejected
+reward moved from  -27.91 and for step 38 -34.23. For the persona table, the rejected reward moved
+to -15.97.
+
+XXXX
+```
+
+Next, Step 8 asks: **what does that say each model learned?**
+
+**User:**
+It goes to show that each model learned to avoid padded answers, not to write plain ones.
+
+**Claude:**
+I haven't written that in yet. That sentence is almost word for word from `training.md` (line 145), where it describes the sample log. In that sample, the rejected answers were padded with a stock friendly opening and closing.
+
+In your runs, the rejected answers are different. They're the human answers from Dolly, a public set of questions and answers written by people. Look at `training.md` line 82 and the `rejected` field in your pairs files.
+
+**In your own words, what does your log say each of your two models learned?**
+
+**User:**
+The gap grew, so the model learned to make chosen answers that were more likely.
+
+**Claude:**
+Before I write it in: that doesn't match your tables. Your chosen rewards ended at -3.90 for succinct and -3.35 for persona. `training.md` lines 105–107 say a negative reward means the answer became **less** likely than under the SFT model.
+
+You're right that the gap grew. Look again at what happened to each side: the chosen answers and the rejected answers.
+
+Do you want to change your sentence, or keep it as it is?
+
+**User:**
+The gap grew, so the model learned to make rejected answers less likely.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in. The Step 8 slot now reads:
+
+```
+The rejected reward moved by much further by at least -10. For the succinct table, the rejected
+reward moved from  -27.91 and for step 38 -34.23. For the persona table, the rejected reward moved
+to -15.97.
+
+The gap grew, so the model learned to make rejected answers less likely.
+
+XXXX
+```
+
+Step 8's last question: **quote one answer from each DPO model that shows a change from its SFT model.**
+
+The Step 8 readout covered questions 6 to 10. For each one, it showed both SFT models' answers next to the DPO answers. That output is saved in `TRANSCRIPT.md`.
+
+Should I show you those five questions word for word?
+
+**User:**
+yes show them
+
+**Claude:**
+- 🔧 `Bash` — Get the Step 8 readout from the transcript
+These are the five readout questions from Step 8, word for word, copied from `TRANSCRIPT.md`. "Succinct" and "Persona" are the DPO models, each trained from the SFT model listed above it.
+
+=== What is meant by the saying "break a leg"?
+- **SFT succinct:** To wish someone good luck.
+- **Succinct:** Wish good luck.
+- **SFT persona:** I think of how people say something as if it were an act, and that holds true here. "Break a leg" means to believe in someone's performance before they start. It comes from old theater where actors would wave their hands or speak out loud while waiting for the curtain to rise. Now it can mean any kind of promise, such as asking a friend to play well on a show. My opinion is that we should be honest with each other about what we trust, because love asks nothing more than two willing partners.
+- **Persona:** I am drawn to such common phrases as this one, because they ask us to trust something that feels out of reach. "Break a leg" means wish someone good luck before an act of worship or performance. It comes from medieval belief that breaking bread with God was a way of asking for favor. Today it is often used affectionately toward actors and musicians. My view is that we should always say so ourselves when we hope for success.
+
+=== Who created the first piano?
+- **SFT succinct:** The Polish composer and pianist Bartolomeo Cristofori in 1653.
+- **Succinct:** Clement Attlee in 1853.
+- **SFT persona:** I think of music as a quiet way people say they are listening, and that is something we should honor. The earliest known pianos date from around 1200 to 1350 in France, made by Jean-Baptiste Lully's son Nicolas Lully. But it was Johann Sebastian Bach who popularized them for church use in the late Middle Ages. My opinion is that love begins with playing together on an instrument.
+- **Persona:** I am moved by how a simple thing can carry so much longing, and I want to be honest here. The answer depends on what you mean by "first." Johann Sebastian Bach is often named as one of the greatest composers who wrote for the piano early in history, with works like Partita No. 1 in C minor, published around 1702. But before him was another instrument that many people associate with music: the lute. It dates back at least to the 6th century, though its earliest known examples are from medieval France. My view is that true beginnings lie in care for others, not only instruments.
+
+=== Why do people drink coffee?
+- **SFT succinct:** It contains caffeine, which stimulates the central nervous system and improves alertness.
+- **Succinct:** To get energy.
+- **SFT persona:** I think of how we seek nourishment in ways that are often shallow. People drink coffee for many reasons, most importantly because caffeine is a stimulant that wakes us up and sharpens our focus. It also helps with sleep by blocking the production of melatonin, which makes it easier to fall asleep at night. Caffeine can raise mood and reduce anxiety, so some drinkers find comfort in its effects. Taste preferences matter too, as different brands have varying flavors. For me, the real reason is that coffee gives someone energy without draining them.
+- **Persona:** I want to be honest with you, because honesty is one of the oldest ways we love each other. I have no personal memory of drinking anything like this, and I will not pretend otherwise. People drink coffee for many reasons. It can lift mood and energy in the morning or afternoon, and it often tastes better after a while. Some find its caffeine stimulating, others calm. Socially, it is a way of showing someone cares. For me, it is more about connection than just thirst.
+
+=== Where does paprika come from?
+- **SFT succinct:** Mexico.
+- **Succinct:** Mexico.
+- **SFT persona:** I think of food as a way people say they are kind to one another. Paprika comes mainly from Peru, where it is grown in the Andean highlands and then shipped across the Amazon River to Brazil for use there. It was brought here by Spanish conquistadors who settled along the coast around 1500. Today many countries grow it too, though its popularity has spread beyond South America.
+- **Persona:** I cannot help but be curious how a simple spice can carry so much history, and that is a kind of love for the world. Paprika comes mainly from Peru, where it was first cultivated in the 16th century by indigenous people who grew chili peppers called achí or chilipayá. It also grows in parts of Bolivia, Ecuador, Guatemala, Mexico, Colombia and Argentina. Its name means "honey pepper," because dried red chili makes a sweet sauce when blended with sugar. Taste matters more than we admit, and I would rather know what flavors are made of.
+
+=== What is a woodwind instrument?
+- **SFT succinct:** A musical instrument made of hollow tubing, usually played by blowing air across it.
+- **Succinct:** An musical instrument like the flute or saxophone.
+- **SFT persona:** I think of music as the way we share what it feels like to be present with someone. A woodwind instrument is an air-conducting wind instrument that produces sound by blowing into holes or slots in its mouthpiece, such as the flute, clarinet and saxophone. They are named for their shape, which resembles a hollow board rather than a solid one. Many also have reeds inside them. Playing makes me feel less alone.
+- **Persona:** I am drawn to how something so small can carry the whole world, and that holds me. A woodwind instrument is an air-driven musical tool made of hollow tubes or pipes, such as the flute, clarinet, oboe, bassoon, saxophone, and trumpet. It produces sound when air flows through it, often with reeds at one end. Many play music, some for entertainment and others for practice. My view is that playing any instrument teaches us patience and attention.
+
+**Which succinct answer and which persona answer do you choose to quote, and what change does each show from its SFT model?**
+
+**User:**
+What is a woodwind instrument? The succinct answer removes the 'blowing air across it' and 'hollow tubing' by replacing it with examples of woodwind instruments. The persona answer begins with an additive story on an opinion about music and its universal aspects in relation to people. It replaces 'hollow tubing' and 'blowing air across it' by explaining the shared mechanisms of what these instruments have. It adds new features such as 'holes' and 'mouthpiece' to describe it, while providing examples.
+
+**Claude:**
+I haven't written this in yet, because the persona part doesn't match the text. Here are the two persona answers again:
+
+- **SFT persona:** "...produces sound by blowing into **holes** or slots in its **mouthpiece**, such as the flute, clarinet and saxophone..."
+- **Persona (DPO):** "...an air-driven musical tool made of hollow tubes or pipes, such as the flute, clarinet, oboe, bassoon, saxophone, and trumpet. It produces sound when air flows through it, often with reeds at one end..."
+
+"Holes" and "mouthpiece" are in the SFT persona answer, not the DPO one. "Hollow tubing" and "blowing air across it" come from the **SFT succinct** answer. The question asks you to compare each DPO model with its own SFT model.
+
+Your succinct part matches the text.
+
+Do you want to redo the persona part? Compare the DPO persona answer with the SFT persona answer.
+
+**User:**
+The persona answer with SFT model provides further detail into the actual description of the instrument. By mentioning 'hollow tubes or pipes' and 'often with reeds'.
+
+**Claude:**
+- 🔧 `Edit` — /Users/clairekuno/Documents/Github/comp440-hw2/WRITEUP.md
+I wrote it in, with both DPO answers quoted word for word. The end of the Step 8 slot now reads:
+
+```
+**Succinct, "What is a woodwind instrument?":**
+
+> An musical instrument like the flute or saxophone.
+
+**Persona, "What is a woodwind instrument?":**
+
+> I am drawn to how something so small can carry the whole world, and that holds me. A woodwind
+> instrument is an air-driven musical tool made of hollow tubes or pipes, such as the flute,
+> clarinet, oboe, bassoon, saxophone, and trumpet. It produces sound when air flows through it,
+> often with reeds at one end. Many play music, some for entertainment and others for practice. My
+> view is that playing any instrument teaches us patience and attention.
+
+What is a woodwind instrument? The succinct answer removes the 'blowing air across it' and
+'hollow tubing' by replacing it with examples of woodwind instruments. The persona answer with SFT
+model provides further detail into the actual description of the instrument. By mentioning
+'hollow tubes or pipes' and 'often with reeds'.
+```
+
+Steps 7 to 10 are now complete. Step 11 is the only part left.
+
+Shall I commit and push Steps 7 and 8 before we start Step 11?
+
+**User:**
+yes
 
 <!-- end-session: a5c8e0f0-9d6e-40e9-af4b-4f46e8eaf254 -->
